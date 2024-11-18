@@ -1,0 +1,633 @@
+"reseller_key","reseller_name","reseller_country","profit_margin","product_sold","frekuensi","segmentasi_profit","frequency_segment","segmentasi_gabungan"
+228,Home Town Bike Store,Canada,2.8300781478834460,6,5,High-Profit,Low Frequency,Mid Profit - Low Frequency
+363,Immense Manufacturing Company,United States,-7.3262060775932382,226,71,Unprofitable,High Frequency,Unprofitable - High Frequency
+58,Largest Bike Store,United States,1.7803725785488829,10,8,High-Profit,Low Frequency,Mid Profit - Low Frequency
+282,Quick Parts and Service,Canada,-6.7770523299960739,138,75,Unprofitable,High Frequency,Unprofitable - High Frequency
+651,Retread Tire Company,United States,7.7955428209791328,13,8,High-Profit,Low Frequency,Mid Profit - Low Frequency
+267,Cycle Parts and Accessories,Australia,-7.9638244445339765,294,105,Unprofitable,High Frequency,Unprofitable - High Frequency
+395,Online Bike Sellers,United States,10.0707071511365356,15,5,High-Profit,Low Frequency,High Profit - Low Frequency
+579,Riders Company,United States,-1.0688241960978702,979,350,Unprofitable,High Frequency,Unprofitable - High Frequency
+51,Ideal Components,Australia,-3.2897879150990037,4,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+594,Casual Bicycle Store,United States,10.3232095115644248,1104,263,High-Profit,High Frequency,High Profit - High Frequency
+73,Outdoor Sports Supply,United States,6.7061653973770438,171,54,High-Profit,High Frequency,Mid Profit - High Frequency
+440,Hobby Store,United States,15.6540308612816879,29,13,High-Profit,Mid Frequency,High Profit - Mid Frequency
+573,Nationwide Supply,Australia,-6.5083054900520324,724,148,Unprofitable,High Frequency,Unprofitable - High Frequency
+124,Nearby Sporting Goods,United Kingdom,-4.4927862031506029,10,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+277,The Bicycle Accessories Company,United States,-2.3899280898174013,126,31,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+299,Citywide Service and Repair,Canada,-0.97539513782896095100,1605,356,Unprofitable,High Frequency,Unprofitable - High Frequency
+315,Juvenile Sports Equipment,United States,9.1644881088862791,566,168,High-Profit,High Frequency,High Profit - High Frequency
+479,General Supplies,Canada,-1.8250212198068456,1012,334,Unprofitable,High Frequency,Unprofitable - High Frequency
+637,Reliable Retail Center,Canada,-0.11517221691751897388,18,12,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+190,Racing Partners,Canada,11.8194000212922547,45,20,High-Profit,Mid Frequency,High Profit - Mid Frequency
+131,Eighth Bike Store,United States,-6.8308804734536929,188,102,Unprofitable,High Frequency,Unprofitable - High Frequency
+27,Sports Sales and Rental,United States,7.1246617884470134,107,44,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+492,Basic Sports Equipment,United States,8.1722075261588497,215,64,High-Profit,High Frequency,Mid Profit - High Frequency
+525,Cycles and Scooters,United States,0.24441471072706046665,30,13,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+203,Separate Parts Corporation,United States,-0.52084849790149077950,642,268,Unprofitable,High Frequency,Unprofitable - High Frequency
+67,Self-Contained Cycle Parts Company,France,-0.59769681042847843815,8,8,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+454,Sleek Bikes,United States,-7.8067848856211981,191,63,Unprofitable,High Frequency,Unprofitable - High Frequency
+93,Stationary Bikes and Stands,United States,0.27167999018446487075,174,75,Mid-Profit,High Frequency,Mid Profit - High Frequency
+391,Pretty Bikes and Toys,France,-5.6274695553249650,228,91,Unprofitable,High Frequency,Unprofitable - High Frequency
+253,Roving Sports,United States,-2.6794225223222663,64,23,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+582,Professional Sales and Service,United States,-5.3812201649983016,359,119,Unprofitable,High Frequency,Unprofitable - High Frequency
+262,General Industries,Canada,11.9689124446956159,195,48,High-Profit,Mid Frequency,High Profit - Mid Frequency
+608,Golf and Cycle Store,United States,-1.1027555624824352,884,207,Unprofitable,High Frequency,Unprofitable - High Frequency
+664,Eastside Cycle Shop,Australia,-7.1465346680298027,5,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+358,Mail Market,United Kingdom,16.3457616931762080,9,6,High-Profit,Low Frequency,High Profit - Low Frequency
+257,Number 1 Supply,United States,-1.9415653916966227,623,219,Unprofitable,High Frequency,Unprofitable - High Frequency
+138,South Bike Company,Canada,-5.1679502057686398,162,65,Unprofitable,High Frequency,Unprofitable - High Frequency
+248,Good Bicycle Store,Germany,-4.5625646059928356,2,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+490,Extraordinary Bike Works,United States,10.6752502499071790,939,238,High-Profit,High Frequency,High Profit - High Frequency
+251,Endurance Bikes,United States,-3.5558677362964684,7,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+9,Tandem Bicycle Store,United States,9.4951368565000035,54,30,High-Profit,Mid Frequency,High Profit - Mid Frequency
+599,Westside Plaza,United States,-9.8110910733236491,1363,203,Unprofitable,High Frequency,Unprofitable - High Frequency
+381,Bicycle Lines Distributors,United States,9.7607361751212831,693,250,High-Profit,High Frequency,High Profit - High Frequency
+118,Rapid Bikes,Canada,5.9772634478238732,1598,394,High-Profit,High Frequency,Mid Profit - High Frequency
+154,Camping and Sports Store,Canada,-12.4439080368352152,412,92,Unprofitable,High Frequency,Unprofitable - High Frequency
+696,Roadway Supplies,United States,-1.2775384892207690,3,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+669,Racing Bike Outlet,United States,-3.0362574323484586,22,15,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+566,eCommerce Bikes,United States,8.5455594851393001,942,263,High-Profit,High Frequency,Mid Profit - High Frequency
+512,Tiny Bike Boutique,United States,-0.98255783802531213314,311,132,Unprofitable,High Frequency,Unprofitable - High Frequency
+208,Professional Cyclists,Canada,-0.06519325930103479982,32,18,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+198,Field Trip Inc,United States,-0.43328665706608152184,72,31,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+64,Metal Clearing House,Canada,-7.5178678907007740,169,99,Unprofitable,High Frequency,Unprofitable - High Frequency
+134,Budget Bike Company,United States,-3.2960129027418326,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+379,Fad Outlet,United States,4.3566119183544721,37,18,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+273,A Typical Bike Shop,United States,-0.15949502229587279221,137,75,Unprofitable,High Frequency,Unprofitable - High Frequency
+682,Popular Bike Lines,Australia,-5.3233031701091342,346,114,Unprofitable,High Frequency,Unprofitable - High Frequency
+337,Recreation Toy Store,France,11.2895793053556763,53,30,High-Profit,Mid Frequency,High Profit - Mid Frequency
+400,Local Sales and Rental,United States,-0.94551852905527039917,11,9,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+510,World Bike Discount Store,United States,-3.0064105040368080,14,10,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+338,Rambling Tours,Germany,25.9964124775779849,4,2,High-Profit,Low Frequency,High Profit - Low Frequency
+163,Sports Merchandise,United States,-9.3018956557391366,157,54,Unprofitable,High Frequency,Unprofitable - High Frequency
+151,Futuristic Bikes,United States,12.7721768931560010,34,17,High-Profit,Mid Frequency,High Profit - Mid Frequency
+560,Major Sport Suppliers,United States,9.5338631862715162,5,5,High-Profit,Low Frequency,High Profit - Low Frequency
+692,Successful Sales Company,United States,-0.00977639419789531049,212,82,Unprofitable,High Frequency,Unprofitable - High Frequency
+643,Friendly Bike Shop,United States,-3.9844957233022526,70,36,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+389,Sixth Bike Store,Canada,7.6643804267054701,86,38,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+205,Rally Master Company Inc,United States,-9.5563191285466610,507,110,Unprofitable,High Frequency,Unprofitable - High Frequency
+25,Coalition Bike Company,United States,13.1027031590294571,106,46,High-Profit,Mid Frequency,High Profit - Mid Frequency
+321,Second Bike Shop,Australia,-5.5312990282524354,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+129,Discount Bicycle Specialists,United States,1.5043150717589281,1,1,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+200,Basic Bike Company,United States,1.21637740278305322907,45,27,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+238,A Great Bicycle Company,United States,0.30137080093514398766,21,14,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+628,Executive Discount Store,United States,8.2498563355010480,6,3,High-Profit,Low Frequency,Mid Profit - Low Frequency
+521,Mobile Outlet,United States,37.2262773722627737,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+180,Full-Service Bike Store,United States,-25.2873555065759026,50,26,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+317,Finer Riding Supplies,Canada,-1.3573423517702533,673,250,Unprofitable,High Frequency,Unprofitable - High Frequency
+116,Retirement Activities Association,United States,2.3346633839884540,4,4,High-Profit,Low Frequency,Mid Profit - Low Frequency
+15,Budget Toy Store,Australia,10.2245414026704021,289,97,High-Profit,High Frequency,High Profit - High Frequency
+311,Principal Bike Company,United States,-4.8265116306889890,103,53,Unprofitable,High Frequency,Unprofitable - High Frequency
+293,Fashionable Bikes and Accessories,United States,1.1029053063911266,763,232,Mid-Profit,High Frequency,Mid Profit - High Frequency
+470,Wingtip Toys,United States,13.6813339939307611,8,3,High-Profit,Low Frequency,High Profit - Low Frequency
+155,Corner Bicycle Supply,Canada,-1.5055221083147761,1603,401,Unprofitable,High Frequency,Unprofitable - High Frequency
+441,Leading Bike Distributors,United States,-2.9619653601746767,108,37,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+545,Finish and Sealant Products,United States,1.0224762521916835,29,12,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+541,Nonskid Tire Company,United States,2.2888576301561675,44,26,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+649,Sports Products Store,United States,-1.7384789279736722,136,64,Unprofitable,High Frequency,Unprofitable - High Frequency
+187,Trailblazing Sports,United States,4.5675788559950272,718,248,High-Profit,High Frequency,Mid Profit - High Frequency
+114,Two Wheels Cycle Store,United States,0.38427502722600877230,52,24,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+453,Unique Bikes,United States,-2.9924688527179591,73,31,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+666,Bike Boutique,United States,-2.5758228568736666,477,179,Unprofitable,High Frequency,Unprofitable - High Frequency
+383,Vehicle Shop,United States,-6.5098929056435116,82,29,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+509,Fun Toys and Bikes,United States,-8.8541829566909213,136,74,Unprofitable,High Frequency,Unprofitable - High Frequency
+325,All Cycle Shop,United States,30.3260743944922320,93,28,High-Profit,Mid Frequency,High Profit - Mid Frequency
+624,First Cycle Store,United States,-4.4915771075925378,206,89,Unprofitable,High Frequency,Unprofitable - High Frequency
+393,Gears and Parts Company,Australia,-8.6485527169313647,238,92,Unprofitable,High Frequency,Unprofitable - High Frequency
+126,Famous Bike Sales and Service,United States,-1.1607659076606116,131,61,Unprofitable,High Frequency,Unprofitable - High Frequency
+659,Shipping Specialists,United Kingdom,-12.0891992341479896,5,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+344,Fifth Bike Store,United States,-0.14300765610732598160,32,22,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+513,Village Tours,United States,13.6756924438077407,97,36,High-Profit,Mid Frequency,High Profit - Mid Frequency
+516,Seats and Saddles Company,Canada,10.0572609112943894,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+106,West Side Mart,United Kingdom,10.4615384615384615,3,2,High-Profit,Low Frequency,High Profit - Low Frequency
+178,Rampart Amusement Company,United Kingdom,-4.9780971374268391,12,9,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+336,Primary Bike Distributors,Canada,-2.8700095522314028,547,170,Unprofitable,High Frequency,Unprofitable - High Frequency
+633,Rustic Bike Store,Germany,-2.5065630717827690,5,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+503,Metropolitan Sales and Rental,United States,-1.0259239260742182,9,9,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+360,Novelty Bikes,United States,-2.0867751221731991,49,24,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+429,Unusual Bicycle Company,Australia,-19.6917131194555974,14,10,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+218,Sure & Reliable Sporting Goods,United States,-0.84948066487437779956,593,228,Unprofitable,High Frequency,Unprofitable - High Frequency
+207,Lubricant and Grease Suppliers,United States,12.6064693547523908,309,83,High-Profit,High Frequency,High Profit - High Frequency
+241,Vale Riding Supplies,United States,-10.8043011812775653,20,13,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+225,Optimal Bikes,United States,13.1562257456480763,23,14,High-Profit,Mid Frequency,High Profit - Mid Frequency
+693,Stock Parts and Supplies,United States,-9.4982380464170080,258,89,Unprofitable,High Frequency,Unprofitable - High Frequency
+605,Outstanding Cycles,United States,-6.0710011426102938,880,165,Unprofitable,High Frequency,Unprofitable - High Frequency
+63,Metro Bike Mart,United States,9.4073995795708626,377,144,High-Profit,High Frequency,High Profit - High Frequency
+580,Rural Sales and Service,United States,0.14767834102815215533,10,7,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+335,Scratch-Resistant Finishes Company,Canada,7.6899127452728283,63,36,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+280,Standard Bikes,Canada,11.6288482461922840,199,60,High-Profit,High Frequency,High Profit - High Frequency
+548,New Bikes Company,United States,-0.38270052537551386804,6,6,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+247,Major Amusement Company,France,13.4643766385679039,219,70,High-Profit,High Frequency,High Profit - High Frequency
+472,Summer Sports Place,United States,10.4820329561246774,5,4,High-Profit,Low Frequency,High Profit - Low Frequency
+310,Orange Bicycle Company,United States,13.5972083748753739,231,56,High-Profit,High Frequency,High Profit - High Frequency
+193,Perfect Toys,France,-9.1437839237756051,578,123,Unprofitable,High Frequency,Unprofitable - High Frequency
+254,Safe Cycles Shop,United States,10.9353814022692820,1407,327,High-Profit,High Frequency,High Profit - High Frequency
+123,First Supplies,Australia,-7.9058132689825453,73,38,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+585,Next-Door Bike Store,United States,9.1967826101937339,448,128,High-Profit,High Frequency,High Profit - High Frequency
+576,The Bike Mechanics,United States,-9.7055828833198050,92,42,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+662,Finer Sporting Goods,France,-7.3021487043169244,147,60,Unprofitable,High Frequency,Unprofitable - High Frequency
+89,Riverside Company,United States,-5.9799611675531404,137,34,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+112,Town Industries,United States,-23.7588783968622798,7,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+301,Rural Mountain Bike Mart,France,-4.6334322550223081,207,52,Unprofitable,High Frequency,Unprofitable - High Frequency
+7,Associated Bikes,United States,13.9439921648668310,29,16,High-Profit,Mid Frequency,High Profit - Mid Frequency
+668,Official Parts Shop,United States,-2.7761214487282112,339,87,Unprofitable,High Frequency,Unprofitable - High Frequency
+641,Extended Tours,United Kingdom,-1.6299382963378476,13,9,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+215,Eleventh Bike Store,United States,-10.0034674063800277,2,1,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+684,Lease-a-Bike Shop,United States,-2.2667677557291188,701,280,Unprofitable,High Frequency,Unprofitable - High Frequency
+687,Functional Store South,Germany,9.6233922325986142,1055,224,High-Profit,High Frequency,High Profit - High Frequency
+597,All Seasons Sports Supply,United States,-0.97347060627087737417,14,12,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+404,Activity Center,United States,-3.4292274449400649,167,73,Unprofitable,High Frequency,Unprofitable - High Frequency
+256,Rental Bikes,United States,0.56402992717313789298,90,33,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+38,Finer Mart,United States,-9.8276467094963019,11,9,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+556,Variety Cycling,United Kingdom,-6.3123486926199618,137,57,Unprofitable,High Frequency,Unprofitable - High Frequency
+2,Progressive Sports,United States,12.5970121776791350,198,70,High-Profit,High Frequency,High Profit - High Frequency
+303,Seaside Bike Works,Australia,1.8982828160278395,16,9,High-Profit,Low Frequency,Mid Profit - Low Frequency
+122,Off-Price Bike Center,Germany,-10.8066697481724958,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+24,Eastside Department Store,United States,-3.0097565101649163,2268,358,Unprofitable,High Frequency,Unprofitable - High Frequency
+593,Expert Sports Store,United States,-10.2822316539600199,11,6,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+607,Maintenance and Repair for Bicycles,United States,-6.0674837502597111,18,12,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+698,Western Bike Supplies,United States,-6.9231497701142017,47,21,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+627,Exchange Parts Inc.,United States,-9.3341874088471291,145,83,Unprofitable,High Frequency,Unprofitable - High Frequency
+674,Discount Tours,United States,0.06552759293369599919,184,61,Mid-Profit,High Frequency,Mid Profit - High Frequency
+690,Active Cycling,United States,2.8934614639009665,5,2,High-Profit,Low Frequency,Mid Profit - Low Frequency
+530,Valuable Bike Parts Company,United States,10.7200462946909180,1101,315,High-Profit,High Frequency,High Profit - High Frequency
+417,Genuine Bike Shop,United States,0.42119066124998092743,149,59,Mid-Profit,High Frequency,Mid Profit - High Frequency
+289,Moderately-Priced Bikes Store,United States,8.2988980535626181,145,68,High-Profit,High Frequency,Mid Profit - High Frequency
+469,Vast Bike Sales and Rental,United States,7.1500370064450851,161,65,High-Profit,High Frequency,Mid Profit - High Frequency
+418,Good Bike Shop,United States,-1.9939053891618427,743,301,Unprofitable,High Frequency,Unprofitable - High Frequency
+175,Registered Cycle Store,France,10.5718002299302803,2313,440,High-Profit,High Frequency,High Profit - High Frequency
+631,Tandem Sales and Service,Canada,-0.04777635699070623708,54,30,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+255,Swift Cycles,United States,-3.2803713662324272,348,170,Unprofitable,High Frequency,Unprofitable - High Frequency
+458,Simple Bike Parts,United States,-1.1099368301169294,15,13,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+569,Designated Distributors,Canada,0.15626760881846039438,371,103,Mid-Profit,High Frequency,Mid Profit - High Frequency
+300,Nice Bikes,Canada,6.3800482248244578,26,15,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+369,Distinctive Cycles Sales & Service,United States,10.0045991805982835,11,8,High-Profit,Low Frequency,High Profit - Low Frequency
+20,Central Discount Store,United States,2.7813018029821886,229,90,High-Profit,High Frequency,Mid Profit - High Frequency
+235,Certified Bicycle Supply,United States,-0.69892234472843173767,220,86,Unprofitable,High Frequency,Unprofitable - High Frequency
+506,Great Bikes,United States,8.5950877797177548,1382,290,High-Profit,High Frequency,Mid Profit - High Frequency
+392,Primary Cycle Shop,Germany,-3.1836200650687039,21,14,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+245,Leather Seat Factory,Canada,10.4644806758919943,1192,241,High-Profit,High Frequency,High Profit - High Frequency
+414,Grand Discount Store,United States,10.5927191645479257,1234,310,High-Profit,High Frequency,High Profit - High Frequency
+588,General Cycle Storehouse,Canada,4.0542678864954124,503,134,High-Profit,High Frequency,Mid Profit - High Frequency
+90,Sales and Supply Company,United States,-1.7648490978977767,1581,276,Unprofitable,High Frequency,Unprofitable - High Frequency
+630,Eastside Parts Shop,Canada,0.37123876514263384134,4,3,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+372,Top Bike Market,Canada,-24.2308519793459552,11,6,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+688,Bike Part Wholesalers,Australia,-7.7163305225179871,360,128,Unprofitable,High Frequency,Unprofitable - High Frequency
+571,Community Department Stores,France,11.6936141224425314,277,73,High-Profit,High Frequency,High Profit - High Frequency
+421,Fitness Cycling,United States,10.6287670603975786,7,5,High-Profit,Low Frequency,High Profit - Low Frequency
+355,Spare Parts Co.,France,10.6073562136889421,1042,297,High-Profit,High Frequency,High Profit - High Frequency
+39,Fitness Hotel,United States,3.0327541126770937,23,18,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+610,Fitness Department Stores,United States,-38.3501750308252668,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+612,General Associates,United States,0.39723636519171424407,181,106,Mid-Profit,High Frequency,Mid Profit - High Frequency
+380,First Department Stores,United States,11.7830171233684273,142,59,High-Profit,High Frequency,High Profit - High Frequency
+287,Handy Bike Services,United States,4.1072115429718649,16,10,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+164,Suburban Cycle Shop,United States,6.3976032589404166,69,24,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+217,City Manufacturing,United States,10.5712799540823648,14,10,High-Profit,Mid Frequency,High Profit - Mid Frequency
+305,Professional Sporting Goods,United States,-22.7523518601403794,9,6,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+69,Online Bike Catalog,Australia,1.3064245909625599,6,4,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+11,Sharp Bikes,Canada,6.3064991911694738,34,19,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+700,Underglaze and Finish Company,United States,-4.2006500880780000,526,157,Unprofitable,High Frequency,Unprofitable - High Frequency
+302,Best Cycle Store,Germany,-6.8807466059445566,1052,177,Unprofitable,High Frequency,Unprofitable - High Frequency
+213,Fast Bike Works,Australia,-8.8412898072811851,106,45,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+165,Third Bike Store,United States,0.03349128519887985478,67,34,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+170,Excellent Riding Supplies,United States,-1.9301867542441460,1203,338,Unprofitable,High Frequency,Unprofitable - High Frequency
+456,Riding Excursions,United States,1.5043150717589281,1,1,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+616,Eastward Bike Accessories,Australia,-8.1030336613209527,5,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+3,Advanced Bike Components,United States,-1.2762838919656216,1514,359,Unprofitable,High Frequency,Unprofitable - High Frequency
+167,Farthermost Bike Shop,United States,-1.5871453137790950,1488,422,Unprofitable,High Frequency,Unprofitable - High Frequency
+652,Selected Distributors,United States,11.2302247641421486,39,22,High-Profit,Mid Frequency,High Profit - Mid Frequency
+683,Oils and Fluids Warehouse,United Kingdom,11.3260165685761189,156,46,High-Profit,Mid Frequency,High Profit - Mid Frequency
+396,Executive Gift Store,United States,11.3538313647091642,332,118,High-Profit,High Frequency,High Profit - High Frequency
+448,Action Bicycle Specialists,United Kingdom,-8.2337488417995250,823,136,Unprofitable,High Frequency,Unprofitable - High Frequency
+399,Big Cycle Mall,United States,-6.9834220080834837,18,11,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+286,Number One Bike Co.,United Kingdom,-2.7576330299822159,107,55,Unprofitable,High Frequency,Unprofitable - High Frequency
+312,Resale Services,United States,8.7227125243545999,1337,374,High-Profit,High Frequency,Mid Profit - High Frequency
+137,Transportation Options,Canada,9.1649120688657626,8,7,High-Profit,Low Frequency,High Profit - Low Frequency
+466,Central Bicycle Specialists,United Kingdom,-32.8681573347309662,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+342,Leather and Vinyl Manufacturing,United States,0.42108516801583606201,173,74,Mid-Profit,High Frequency,Mid Profit - High Frequency
+12,Bikes and Motorbikes,Canada,-2.9167412509520736,1578,251,Unprofitable,High Frequency,Unprofitable - High Frequency
+74,Parcel Express Delivery Service,United States,1.5043150717589281,1,1,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+5,Metropolitan Sports Supply,United States,-2.9951427036505006,253,71,Unprofitable,High Frequency,Unprofitable - High Frequency
+359,Mechanical Sports Center,United States,13.2513189193499090,178,50,High-Profit,Mid Frequency,High Profit - Mid Frequency
+629,Efficient Cycling,Canada,-8.8483560733569686,23,14,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+125,Immediate Repair Shop,United States,10.0880148202710003,641,198,High-Profit,High Frequency,High Profit - High Frequency
+611,Front Runner Bikes,United States,-7.5162241276126482,621,127,Unprofitable,High Frequency,Unprofitable - High Frequency
+246,Large Bike Shop,Canada,25.9903548053737513,2,2,High-Profit,Low Frequency,High Profit - Low Frequency
+431,Small Cycle Store,United States,-2.1347189589734321,274,121,Unprofitable,High Frequency,Unprofitable - High Frequency
+259,Highway Bike Shop,United States,-1.7701426813938404,293,111,Unprofitable,High Frequency,Unprofitable - High Frequency
+639,Producer Goods Clearinghouse,Germany,-1.18089497928158444689,38,26,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+107,Wholesale Bikes,United States,-0.35033659932434740726,128,61,Unprofitable,High Frequency,Unprofitable - High Frequency
+424,Bikes for Two,Canada,11.8789403273225401,50,22,High-Profit,Mid Frequency,High Profit - Mid Frequency
+292,Grease and Oil Products Company,United States,-3.2378065482962574,268,102,Unprofitable,High Frequency,Unprofitable - High Frequency
+49,Neighborhood Bicycle Storehouse,France,31.5305148016320861,9,5,High-Profit,Low Frequency,High Profit - Low Frequency
+179,Fourth Bike Store,United States,-5.9741655813910105,376,128,Unprofitable,High Frequency,Unprofitable - High Frequency
+697,Brakes and Gears,United States,7.6964566759698662,1558,298,High-Profit,High Frequency,Mid Profit - High Frequency
+382,Beneficial Exercises and Activities,United States,0.79723330300697506240,5,5,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+460,Price-Cutter Discount Bikes,Canada,0.17600925524866524511,193,82,Mid-Profit,High Frequency,Mid Profit - High Frequency
+53,Incomparable Bicycle Store,United States,-4.0664023362854969,24,17,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+677,Tire Exchange,Canada,15.6419424557970880,224,68,High-Profit,High Frequency,High Profit - High Frequency
+110,Vintage Sport Boutique,United States,-4.9810639274692160,434,146,Unprofitable,High Frequency,Unprofitable - High Frequency
+281,Petroleum Products Distributors,Canada,-11.4966454062914290,694,125,Unprofitable,High Frequency,Unprofitable - High Frequency
+590,Lustrous Paints and Components,Germany,-6.0673221377679275,2,1,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+8,Exemplary Cycles,United States,-6.8891645606488725,36,31,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+398,Commendable Bikes,United States,-2.1352016707026661,17,13,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+23,Bike World,United States,11.5156720374046616,333,85,High-Profit,High Frequency,High Profit - High Frequency
+468,Blue Bicycle Company,United States,1.8983856328462017,8,5,High-Profit,Low Frequency,Mid Profit - Low Frequency
+518,Regional Cycle Shop,Germany,-4.7365246692627411,4,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+370,Acceptable Sales & Service,Canada,1.5043150717589281,3,3,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+45,Every Bike Shop,United States,-0.53131180999644042495,399,184,Unprofitable,High Frequency,Unprofitable - High Frequency
+130,Elite Bikes,United States,1.2886130283014518,716,189,Mid-Profit,High Frequency,Mid Profit - High Frequency
+182,Another Bicycle Company,United States,-7.6093315451865081,469,133,Unprofitable,High Frequency,Unprofitable - High Frequency
+196,Exhibition Showroom,United Kingdom,10.3807908560047838,1005,228,High-Profit,High Frequency,High Profit - High Frequency
+96,More Bikes!,United States,-0.02007850045986242989,9,6,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+16,Bulk Discount Store,United Kingdom,-2.6344657393883325,959,289,Unprofitable,High Frequency,Unprofitable - High Frequency
+532,The Showroom,Canada,2.7784446393313311,7,5,High-Profit,Low Frequency,Mid Profit - Low Frequency
+212,Enterprise Center,Germany,0.59714146170646073887,20,10,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+150,Fleet Bikes,United States,10.1782578138757166,7,6,High-Profit,Low Frequency,High Profit - Low Frequency
+88,Closest Bicycle Store,United Kingdom,10.0349644197949909,252,87,High-Profit,High Frequency,High Profit - High Frequency
+564,Imported and Domestic Cycles,United States,26.0014762128430517,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+457,Retail Sporting Equipment,United States,11.5040748991948889,288,91,High-Profit,High Frequency,High Profit - High Frequency
+121,Metro Sports Equipment,France,10.5651879049399704,247,89,High-Profit,High Frequency,High Profit - High Frequency
+184,Go-cart and Bike Specialists,United States,11.9906459491613170,623,146,High-Profit,High Frequency,High Profit - High Frequency
+562,Practical Bike Supply Company,United States,7.4018714609207274,11,8,High-Profit,Low Frequency,Mid Profit - Low Frequency
+446,Fitness Toys,Germany,-2.2040382843689221,9,8,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+493,Valley Bicycle Distributors,United States,-3.3312930443657437,68,43,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+139,Steel Inc.,France,-0.36937177747853613679,1292,233,Unprofitable,High Frequency,Unprofitable - High Frequency
+387,Racing Association,United States,-2.4838619692522876,9,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+85,Roadway Bicycle Supply,France,-6.0721124329555958,766,145,Unprofitable,High Frequency,Unprofitable - High Frequency
+283,Racing Supply Distributors,France,-5.9336680540959850,73,50,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+484,Downhill Bicycle Specialists,United Kingdom,12.2016956641527469,676,166,High-Profit,High Frequency,High Profit - High Frequency
+14,Bicycle Warehouse Inc.,Germany,19.4109096824109159,107,34,High-Profit,Mid Frequency,High Profit - Mid Frequency
+680,Racing Tours,France,13.8553568054109996,147,42,High-Profit,Mid Frequency,High Profit - Mid Frequency
+141,Rental Gallery,Australia,15.6036493917680387,122,36,High-Profit,Mid Frequency,High Profit - Mid Frequency
+221,Bike Dealers Association,United States,-1.1380648473628154,1951,432,Unprofitable,High Frequency,Unprofitable - High Frequency
+567,Global Plaza,United States,-7.2484322123801210,173,36,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+313,Metropolitan Manufacturing,United States,-2.4099431718224903,208,68,Unprofitable,High Frequency,Unprofitable - High Frequency
+691,Mountain Bike Store,United States,-5.3060961414121752,184,102,Unprofitable,High Frequency,Unprofitable - High Frequency
+471,Social Activities Club,United States,-0.39276223881144411807,20,14,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+84,Rewarding Activities Company,Canada,-0.44538842069970130676,1963,436,Unprofitable,High Frequency,Unprofitable - High Frequency
+550,Remote Bicycle Specialists,Canada,-0.96157068112951944204,154,55,Unprofitable,High Frequency,Unprofitable - High Frequency
+543,Friendly Neighborhood Bikes,United States,12.2135565622710645,31,12,High-Profit,Mid Frequency,High Profit - Mid Frequency
+136,Wholesale Parts,Canada,0.00200693895635525290,124,59,Mid-Profit,High Frequency,Mid Profit - High Frequency
+95,Rural Department Store,United States,-9.5855159536309329,32,24,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+99,Unified Sports Company,United States,7.2831789050207545,123,57,High-Profit,High Frequency,Mid Profit - High Frequency
+55,Kickstands and Accessories Company,United States,-5.7444190200418939,144,80,Unprofitable,High Frequency,Unprofitable - High Frequency
+91,Scooters and Bikes Store,United States,-0.42690985032490145329,266,106,Unprofitable,High Frequency,Unprofitable - High Frequency
+160,Vigorous Sports Store,United Kingdom,-3.5559336183561436,15,11,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+185,Weekend Bike Tours,United States,-6.0670788465495449,1,1,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+44,Games and Sport Supply Company,United States,-3.5476673117280326,15,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+675,Bike Goods,United States,-0.25033935572346511624,72,48,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+307,Riding Associates,United States,13.3183881612611099,49,18,High-Profit,Mid Frequency,High Profit - Mid Frequency
+522,Small Bike Accessories Shop,United States,-6.1609767467743237,228,83,Unprofitable,High Frequency,Unprofitable - High Frequency
+46,Gear-Shift Bikes Limited,Canada,7.4976523501210893,1,1,High-Profit,Low Frequency,Mid Profit - Low Frequency
+499,Racing Sales and Service,France,-3.9992950799030434,621,168,Unprofitable,High Frequency,Unprofitable - High Frequency
+186,Thrilling Bike Tours,United States,-6.4964319031783643,63,36,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+52,Instruments and Parts Company,United Kingdom,-6.6059136128568347,282,97,Unprofitable,High Frequency,Unprofitable - High Frequency
+80,Racks and Security Systems,United States,-12.9937588425904797,9,6,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+583,Professional Containers and Packaging Co.,United States,13.8587160214518866,94,34,High-Profit,Mid Frequency,High Profit - Mid Frequency
+364,District Mall,United States,-0.29842967243600220822,123,69,Unprofitable,High Frequency,Unprofitable - High Frequency
+19,Center Cycle Shop,United States,12.3627474553177847,2,2,High-Profit,Low Frequency,High Profit - Low Frequency
+31,Wheels Inc.,France,-1.1326938834530294,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+407,Workout Emporium,Canada,-11.8496741666443187,10,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+476,Noiseless Gear Company,United States,9.5173361071258779,609,210,High-Profit,High Frequency,High Profit - High Frequency
+699,Sensational Discount Store,United States,-6.0680885212506559,1,1,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+542,Finer Parts Shop,United States,9.5680639704646567,264,96,High-Profit,High Frequency,High Profit - High Frequency
+595,Cycle Clearance,United States,-5.0255849642688756,13,8,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+428,West Wind Distributors,Germany,-9.0172592562871798,28,19,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+397,Capable Sales and Service,United States,6.7130663706531099,118,37,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+258,Quantity Discounts,United States,-2.7214492460807600,539,229,Unprofitable,High Frequency,Unprofitable - High Frequency
+275,Outdoor Sporting Goods,United States,-0.73802885107189681110,32,13,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+378,Grown-up Bike Store,United States,4.9670382504576227,56,30,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+488,Bicycle Accessories and Kits,United States,12.4421241829073167,14,11,High-Profit,Mid Frequency,High Profit - Mid Frequency
+340,Nearby Cycle Shop,United Kingdom,10.0691120394078050,541,169,High-Profit,High Frequency,High Profit - High Frequency
+487,Bike Experts,United States,12.0339614030807964,667,177,High-Profit,High Frequency,High Profit - High Frequency
+61,Many Bikes Store,United States,10.2551872184373522,946,251,High-Profit,High Frequency,High Profit - High Frequency
+558,Retail Sales and Service,United States,-0.44445205458190856039,675,279,Unprofitable,High Frequency,Unprofitable - High Frequency
+115,Security Racks and Locks Wholesalers,United States,6.5011474001112988,14,12,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+230,Global Bike Retailers,Germany,-6.1059021258174863,1052,196,Unprofitable,High Frequency,Unprofitable - High Frequency
+563,Systematic Sales,United States,-5.8115233560277486,45,23,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+686,Finished Parts Shop,France,11.3469011652576492,86,39,High-Profit,Mid Frequency,High Profit - Mid Frequency
+216,Painters Bicycle Specialists,United States,-1.4242781618340125,415,131,Unprofitable,High Frequency,Unprofitable - High Frequency
+146,Latest Sports Equipment,United States,8.9992684492576177,1578,332,High-Profit,High Frequency,High Profit - High Frequency
+432,Super Sports Store,United States,0.79261696408784960276,90,53,Mid-Profit,High Frequency,Mid Profit - High Frequency
+269,Curbside Universe,United States,0.96737528683339001069,38,24,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+535,Spa and Exercise Outfitters,France,9.4910970533833395,1124,264,High-Profit,High Frequency,High Profit - High Frequency
+161,Weekend Tours,United States,-0.29557925678806004353,123,72,Unprofitable,High Frequency,Unprofitable - High Frequency
+220,Best o' Bikes,United States,-3.0068538698586636,100,34,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+201,Unsurpassed Bikes,United States,-3.1446590769373726,36,18,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+523,Futuristic Sport Distributors,United States,-1.8613519206784429,1545,317,Unprofitable,High Frequency,Unprofitable - High Frequency
+279,Reliable Brake Systems,United States,-14.8096659920143602,103,44,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+435,Satin Finish Company,United States,9.8152384210709702,691,263,High-Profit,High Frequency,High Profit - High Frequency
+577,Synthetic Materials Manufacturing,United States,7.4342645425253731,7,5,High-Profit,Low Frequency,Mid Profit - Low Frequency
+442,Original Bicycle Supply Company,Canada,10.1132790529373034,1236,387,High-Profit,High Frequency,High Profit - High Frequency
+443,Courteous Bicycle Specialists,Canada,-2.5780836921217615,5,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+57,Leading Sales & Repair,United States,0.14123171451731823725,366,103,Mid-Profit,High Frequency,Mid Profit - High Frequency
+554,Top of the Line Bikes,Germany,-14.7535278466944329,6,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+681,Showcase for Cycles,Germany,-4.3558526608303617,2,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+191,Non-Slip Pedal Company,Canada,-0.41223647835883646733,131,79,Unprofitable,High Frequency,Unprofitable - High Frequency
+672,Utilitarian Sporting Goods,United States,-10.0442201294918438,222,75,Unprofitable,High Frequency,Unprofitable - High Frequency
+640,Liquidation Sales,Australia,-5.1896281875457887,148,62,Unprofitable,High Frequency,Unprofitable - High Frequency
+653,Mercantile Outlet,Canada,11.1269637624572518,293,105,High-Profit,High Frequency,High Profit - High Frequency
+66,Neighborhood Store,Canada,-0.75382823690866292082,623,152,Unprofitable,High Frequency,Unprofitable - High Frequency
+561,Mountain Toy Store,United States,-1.4030962436534887,12,12,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+1,A Bike Store,United States,-0.25827382590425776712,121,73,Unprofitable,High Frequency,Unprofitable - High Frequency
+572,Versatile Sporting Goods Company,Germany,-4.9889874740963034,16,9,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+232,Exceptional Cycle Services,United Kingdom,-9.7105600684053014,137,41,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+495,Tough and Reliable Parts,United States,0.87789782417211716861,23,13,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+352,Twelfth Bike Store,Canada,9.8848626034991575,981,264,High-Profit,High Frequency,High Profit - High Frequency
+135,Wonderful Bikes Inc.,United States,-0.55088034491365048006,203,54,Unprofitable,High Frequency,Unprofitable - High Frequency
+505,Honest Repair Service,United States,-8.2583817815033521,234,79,Unprofitable,High Frequency,Unprofitable - High Frequency
+673,Countryside Company,United States,11.4393337478697434,20,14,High-Profit,Mid Frequency,High Profit - Mid Frequency
+701,Future Bikes,Canada,3.1229464472087144,16,11,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+128,Demand Distributors,United States,6.6905129912577053,13,9,High-Profit,Low Frequency,Mid Profit - Low Frequency
+534,Recommended Bicycles,Canada,-0.27892601892988217114,2,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+504,Historic Bicycle Sales,United States,6.4131870068267212,33,17,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+390,Plastic Parts Company,Canada,6.6558993921188219,11,8,High-Profit,Low Frequency,Mid Profit - Low Frequency
+444,Finer Cycle Shop,Canada,12.2212819514272278,309,85,High-Profit,High Frequency,High Profit - High Frequency
+328,Totes & Baskets Company,United States,-2.2359283254363166,1736,436,Unprofitable,High Frequency,Unprofitable - High Frequency
+166,Fitness Toy Store,United States,-3.0923444374291022,1344,336,Unprofitable,High Frequency,Unprofitable - High Frequency
+644,Convenient Sales and Service,United States,-2.4672799915674399,246,116,Unprofitable,High Frequency,Unprofitable - High Frequency
+296,Extreme Toy Store,United States,10.5638805395272189,53,23,High-Profit,Mid Frequency,High Profit - Mid Frequency
+412,Leisure Clearing House,United Kingdom,8.6839737895845099,22,13,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+420,Extreme Riding Supplies,United States,-11.1423661543178274,198,60,Unprofitable,High Frequency,Unprofitable - High Frequency
+388,Road Way Sales and Rental,Canada,11.8019869818430970,2,2,High-Profit,Low Frequency,High Profit - Low Frequency
+437,Professional Cycle Store,United States,10.2419361208813334,623,191,High-Profit,High Frequency,High Profit - High Frequency
+578,The Bike Shop,United States,11.6335811753119802,22,14,High-Profit,Mid Frequency,High Profit - Mid Frequency
+496,Top Sports Supply,Canada,10.8136259013907494,2350,441,High-Profit,High Frequency,High Profit - High Frequency
+322,Tachometers and Accessories,United Kingdom,11.8082987758911760,75,36,High-Profit,Mid Frequency,High Profit - Mid Frequency
+314,One-Piece Handle Bars,United States,13.6661177154402912,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+679,Superb Sales and Repair,Canada,-0.24733822592275924191,160,89,Unprofitable,High Frequency,Unprofitable - High Frequency
+143,Modern Bike Store,United States,-0.17479399770805397040,143,85,Unprofitable,High Frequency,Unprofitable - High Frequency
+29,Cross-Country Riding Supplies,Canada,6.2826589894632234,46,25,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+685,Family Cycle Store,Canada,10.1415410371217196,495,153,High-Profit,High Frequency,High Profit - High Frequency
+473,Racing Toys,United States,1.6595729875792965,97,56,High-Profit,High Frequency,Mid Profit - High Frequency
+87,Rich Department Store,Australia,-12.0498854328771274,212,73,Unprofitable,High Frequency,Unprofitable - High Frequency
+445,First Center,France,11.0601737569326451,4,3,High-Profit,Low Frequency,High Profit - Low Frequency
+102,National Manufacturing,Canada,-0.62621673645273312970,251,110,Unprofitable,High Frequency,Unprofitable - High Frequency
+308,Rugged Bikes,United States,-9.8947977438352422,199,61,Unprofitable,High Frequency,Unprofitable - High Frequency
+331,Technical Parts Manufacturing,United States,-7.0457726223328341,335,119,Unprofitable,High Frequency,Unprofitable - High Frequency
+70,Outdoor Aerobic Systems Company,United Kingdom,-5.5312990282524354,3,3,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+210,Gasless Cycle Shop,Canada,-1.4317699465914126,308,130,Unprofitable,High Frequency,Unprofitable - High Frequency
+237,Client Discount Store,United States,2.8123938272267225,95,47,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+497,Valley Toy Store,Canada,10.5935122193825690,658,205,High-Profit,High Frequency,High Profit - High Frequency
+626,Retail Sporting Goods,United States,7.5024464499293248,1,1,High-Profit,Low Frequency,Mid Profit - Low Frequency
+403,Affordable Sports Equipment,United States,-0.13722132987847803349,685,269,Unprofitable,High Frequency,Unprofitable - High Frequency
+646,Yellow Bicycle Company,United States,6.2972474600950451,57,28,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+144,Only Bikes and Accessories,United States,6.2802373837456291,24,15,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+223,Paints and Solvents Company,United States,-4.0467307552031927,137,47,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+376,Commerce Bicycle Specialists,United Kingdom,9.8845771811157854,1079,314,High-Profit,High Frequency,High Profit - High Frequency
+330,The New Bike Store,United States,-0.46955185583005131877,10,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+145,Raw Materials Inc,United States,7.2040201846750484,153,64,High-Profit,High Frequency,Mid Profit - High Frequency
+75,Paint Supply,United States,5.4712796353371982,1124,343,High-Profit,High Frequency,Mid Profit - High Frequency
+408,Odometers and Accessories Company,Canada,-4.0065583181438603,684,118,Unprofitable,High Frequency,Unprofitable - High Frequency
+598,Black Bicycle Company,United States,10.0569912349179512,2,2,High-Profit,Low Frequency,High Profit - Low Frequency
+433,Thorough Parts and Repair Services,United States,-3.2559737038021763,1344,358,Unprofitable,High Frequency,Unprofitable - High Frequency
+464,Educational Services,Germany,-5.4290946168045524,386,124,Unprofitable,High Frequency,Unprofitable - High Frequency
+477,Quitting Business Distributors,United States,-9.7565395457425335,42,29,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+56,Latest Accessories Sales,United States,-7.3381784908748438,24,13,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+654,Online Bike Warehouse,Canada,5.1764670649716245,2,2,High-Profit,Low Frequency,Mid Profit - Low Frequency
+384,Sparkling Paint and Finishes,United States,6.8374540068438356,86,34,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+502,Metropolitan Bicycle Supply,United Kingdom,9.9999790578960223,1154,257,High-Profit,High Frequency,High Profit - High Frequency
+77,Mechanical Products Ltd.,United States,-1.3639028067444701,273,104,Unprofitable,High Frequency,Unprofitable - High Frequency
+306,Work and Play Association,United States,-5.2871905644237605,178,77,Unprofitable,High Frequency,Unprofitable - High Frequency
+546,Field Trip Store,United States,8.7378314394072330,1946,357,High-Profit,High Frequency,Mid Profit - High Frequency
+617,Tubeless Tire Company,United Kingdom,0.09997500624843789053,1,1,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+606,Little Bicycle Supply Shop,United States,0.19826337014030082114,13,6,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+236,Closeout Boutique,United States,10.6902440650631806,1776,375,High-Profit,High Frequency,High Profit - High Frequency
+316,Low Price Cycles,Canada,11.9838078220811294,38,14,High-Profit,Mid Frequency,High Profit - Mid Frequency
+642,Fitness Sport Boutique,United States,10.6579446091709748,646,131,High-Profit,High Frequency,High Profit - High Frequency
+231,Helmets and Cycles,Australia,-6.5336584698661344,198,113,Unprofitable,High Frequency,Unprofitable - High Frequency
+109,Travel Sports,United States,10.0317332000505701,443,122,High-Profit,High Frequency,High Profit - High Frequency
+485,Clamps & Brackets Co.,United States,6.6513244519755030,88,29,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+197,"Fabrikam Inc., West",United States,10.4221140346580562,842,239,High-Profit,High Frequency,High Profit - High Frequency
+632,Ultimate Bicycle Company,France,9.4301489173580124,372,143,High-Profit,High Frequency,High Profit - High Frequency
+68,North Bike Company,Germany,-2.5404232303733760,195,56,Unprofitable,High Frequency,Unprofitable - High Frequency
+483,Fitness Bike Accessories,Australia,-9.0346414858949678,5,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+270,Active Transport Inc.,United States,-0.28851228177292496947,118,71,Unprofitable,High Frequency,Unprofitable - High Frequency
+43,Frugal Bike Shop,United States,9.5208078982371957,588,193,High-Profit,High Frequency,High Profit - High Frequency
+425,Bikes for Kids and Adults,Canada,12.2732441579718893,115,44,High-Profit,Mid Frequency,High Profit - Mid Frequency
+568,Economy Center,Canada,8.7449518932384958,3,3,High-Profit,Low Frequency,Mid Profit - Low Frequency
+37,Two Bike Shops,United States,-2.3702773742938110,13,10,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+271,Alternative Vehicles,United States,-0.35112474952918608078,18,11,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+252,Classic Cycle Store,United States,10.4334487138815196,249,92,High-Profit,High Frequency,High Profit - High Frequency
+260,Industrial Supplies,United States,-8.4560301182341462,228,79,Unprofitable,High Frequency,Unprofitable - High Frequency
+229,Instant Cycle Store,France,1.0504768815832815,25,18,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+625,Major Sporting Goods,United States,-3.6016092296558037,2,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+676,Better Bike Shop,United States,9.1368327951341239,1207,359,High-Profit,High Frequency,High Profit - High Frequency
+650,Permanent Finish Products,United States,9.0844191852417037,1782,391,High-Profit,High Frequency,High Profit - High Frequency
+10,Rural Cycle Emporium,Canada,9.8234828511004194,952,217,High-Profit,High Frequency,High Profit - High Frequency
+149,Initial Bike Company,United States,10.1606804097812700,779,222,High-Profit,High Frequency,High Profit - High Frequency
+265,Full Sports Supply,France,12.6363514256319239,136,41,High-Profit,Mid Frequency,High Profit - Mid Frequency
+195,Inexpensive Parts Shop,Australia,13.4223168311135403,110,30,High-Profit,Mid Frequency,High Profit - Mid Frequency
+65,Metro Manufacturing,Canada,12.4425520785637307,295,82,High-Profit,High Frequency,High Profit - High Frequency
+438,Remarkable Bike Store,United States,-1.2902056716403138,288,77,Unprofitable,High Frequency,Unprofitable - High Frequency
+538,Prosperous Tours,United Kingdom,-2.4860382128295837,1666,369,Unprofitable,High Frequency,Unprofitable - High Frequency
+108,Wheelsets Storehouse,United States,-3.1378818660127064,1410,254,Unprofitable,High Frequency,Unprofitable - High Frequency
+202,Two-Seater Bikes,United States,-42.0786496706659600,3,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+520,Metro Metals Co.,United Kingdom,-10.2899455781781595,465,120,Unprofitable,High Frequency,Unprofitable - High Frequency
+553,Accessories Network,France,-18.3983989120812860,2,2,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+527,Fun Times Club,United States,-0.66264008973288495721,475,218,Unprofitable,High Frequency,Unprofitable - High Frequency
+177,Plastic Products Manufacturers,Australia,-5.0087411856438284,61,35,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+119,Red Bicycle Company,Canada,8.9452924647748633,709,220,High-Profit,High Frequency,High Profit - High Frequency
+152,Distance Bikes,United States,-1.6758879270717375,8,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+176,Rodeway Bike Store,Germany,9.8470115642497984,452,122,High-Profit,High Frequency,High Profit - High Frequency
+602,Ultimate Bike Shop,United States,-9.3238817978831050,104,42,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+648,Small Bike Shop,United States,-0.67217652156597312841,685,218,Unprofitable,High Frequency,Unprofitable - High Frequency
+47,Greater Bike Store,Canada,-2.2675208283227861,192,68,Unprofitable,High Frequency,Unprofitable - High Frequency
+581,Safe Toys,United States,-9.1987839931452918,95,38,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+59,Locks Company,United States,-15.6092447933746644,56,32,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+227,"Health Spa, Limited",Canada,-2.9784785260620067,1408,352,Unprofitable,High Frequency,Unprofitable - High Frequency
+320,Amalgamated Parts Shop,Germany,-9.3001186391217333,862,156,Unprofitable,High Frequency,Unprofitable - High Frequency
+62,Manufacturers Inc,United States,-3.5046784270161918,202,73,Unprofitable,High Frequency,Unprofitable - High Frequency
+33,Global Sports Outlet,Australia,9.4501760763938762,5,5,High-Profit,Low Frequency,High Profit - Low Frequency
+318,First-Rate Outlet,Canada,0.12870097958194219475,12,10,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+601,Transport Bikes,United States,0.47702207250338603811,15,9,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+663,Capital Riding Supplies,Germany,4.6667951223540422,19,10,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+618,Seventh Bike Store,United States,-2.2577666478863831,1073,380,Unprofitable,High Frequency,Unprofitable - High Frequency
+678,Vigorous Exercise Company,Canada,1.9529123137038466,2392,469,High-Profit,High Frequency,Mid Profit - High Frequency
+406,The Commissary,Canada,9.1966410076976907,3,2,High-Profit,Low Frequency,High Profit - Low Frequency
+401,Brightwork Company,United States,7.9434322983730026,388,114,High-Profit,High Frequency,Mid Profit - High Frequency
+157,Ace Bicycle Supply,France,9.2048512847049033,7,6,High-Profit,Low Frequency,High Profit - Low Frequency
+242,Spoke Manufacturers,United States,1.3472015849430411,5,5,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+171,Eighty Toy Stores,United States,-4.8159138901630159,70,22,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+26,Stylish Department Stores,United States,0.31065921084560637211,30,14,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+211,Sports Products Store,France,0.03924465580128353110,6,5,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+480,General Bike Corporation,Canada,-1.4928615843288407,340,128,Unprofitable,High Frequency,Unprofitable - High Frequency
+351,Acclaimed Bicycle Company,United States,-16.4134391159234625,15,10,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+551,Vinyl and Plastic Goods Corporation,Canada,7.9982985660296682,13,9,High-Profit,Low Frequency,Mid Profit - Low Frequency
+694,The Accessories Store,United States,-1.1067710182804710,9,8,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+584,Qualified Sales and Repair Services,United States,0.36845359860559533626,366,115,Mid-Profit,High Frequency,Mid Profit - High Frequency
+475,Real Sporting Goods,United States,10.6427794984412984,1887,418,High-Profit,High Frequency,High Profit - High Frequency
+353,Two-Wheeled Transit Company,Canada,8.1802882182228003,114,53,High-Profit,High Frequency,Mid Profit - High Frequency
+214,Exclusive Bicycle Mart,United Kingdom,-3.2444615351748595,9,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+326,Year-Round Sports,United States,7.2416897872613792,101,43,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+50,Hometown Riding Supplies,Germany,37.6666666666666667,2,1,High-Profit,Low Frequency,High Profit - Low Frequency
+638,Metropolitan Equipment,France,-2.7623383876058393,2129,405,Unprofitable,High Frequency,Unprofitable - High Frequency
+436,Sheet Metal Manufacturing,United States,-2.5715731725712673,1471,371,Unprofitable,High Frequency,Unprofitable - High Frequency
+133,Commercial Sporting Goods,United States,12.2686258004016981,1322,187,High-Profit,High Frequency,High Profit - High Frequency
+422,Consolidated Sales,United States,8.5825300935918253,441,125,High-Profit,High Frequency,Mid Profit - High Frequency
+117,Pedals Warehouse,United States,1.9415053430929849,14,8,High-Profit,Low Frequency,Mid Profit - Low Frequency
+451,Roadway Bike Emporium,United States,-8.2596963480056624,231,71,Unprofitable,High Frequency,Unprofitable - High Frequency
+36,Exotic Bikes,United States,0.16231313782877861162,128,62,Mid-Profit,High Frequency,Mid Profit - High Frequency
+268,Channel Outlet,United Kingdom,21.2488059372474098,56,17,High-Profit,Mid Frequency,High Profit - Mid Frequency
+635,Sports Store,United Kingdom,9.8067596568965478,8,5,High-Profit,Low Frequency,High Profit - Low Frequency
+361,Fitness Supplies,United States,-4.5924950659897945,470,164,Unprofitable,High Frequency,Unprofitable - High Frequency
+613,Famous Bike Shop,Canada,12.1240892986366813,171,55,High-Profit,High Frequency,High Profit - High Frequency
+482,"Fabrikam Inc., East",Germany,-5.7369048147115074,216,88,Unprofitable,High Frequency,Unprofitable - High Frequency
+290,Friendly Bike Shop,United States,-3.6310134564518274,1532,287,Unprofitable,High Frequency,Unprofitable - High Frequency
+539,Glossy Bikes,United States,-5.2637031013556505,563,152,Unprofitable,High Frequency,Unprofitable - High Frequency
+603,Retail Toy Store,United States,-0.37097792275041482249,10,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+667,Traditional Department Stores,United States,11.1525798711295368,465,120,High-Profit,High Frequency,High Profit - High Frequency
+339,Major Bicycle Store,Australia,0.09997500624843789053,1,1,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+343,Mail-Order Outlet,United States,-2.0977203780656866,990,286,Unprofitable,High Frequency,Unprofitable - High Frequency
+183,This Area Sporting Goods,United States,12.5129280618698341,177,45,High-Profit,Mid Frequency,High Profit - Mid Frequency
+172,Certified Sports Supply,Canada,7.3663374957590097,11,6,High-Profit,Low Frequency,Mid Profit - Low Frequency
+120,Machines & Cycles Store,Canada,-8.1616174001186647,100,55,Unprofitable,High Frequency,Unprofitable - High Frequency
+249,Helpful Sales and Repair Service,Australia,-6.2645424286344211,318,110,Unprofitable,High Frequency,Unprofitable - High Frequency
+153,Widget Bicycle Specialists,United States,-6.0680885212506559,1,1,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+489,Cash & Carry Bikes,United States,10.5639301242507165,10,5,High-Profit,Low Frequency,High Profit - Low Frequency
+54,Larger Cycle Shop,United States,-0.58336598568420778902,1871,443,Unprofitable,High Frequency,Unprofitable - High Frequency
+377,Grand Sport Boutique,United States,-3.2495832124153524,323,86,Unprofitable,High Frequency,Unprofitable - High Frequency
+22,Travel Systems,United States,2.4676547345295931,67,35,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+491,Area Bike Accessories,United States,-3.6289860860586012,942,273,Unprofitable,High Frequency,Unprofitable - High Frequency
+498,Quick Delivery Service,Canada,-23.2122351313391250,23,15,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+334,Retreat Inn,Canada,1.2449733444276734,45,21,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+462,General Riding Supplies,Canada,9.4393404677877952,2,2,High-Profit,Low Frequency,High Profit - Low Frequency
+549,Daring Rides,United States,-0.35451507877400076125,102,59,Unprofitable,High Frequency,Unprofitable - High Frequency
+78,Preferred Bikes,United States,0.05136733221212317340,1203,328,Mid-Profit,High Frequency,Mid Profit - High Frequency
+357,Quality Bike Sales,Australia,-8.1956329517380359,7,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+156,Metal Processing Company,Canada,0.18309345290250643814,317,124,Mid-Profit,High Frequency,Mid Profit - High Frequency
+276,Thrifty Parts and Sales,United States,-4.4970782942726197,8,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+111,Westside Cycle Store,United States,3.7422304306235946,25,10,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+461,Active Life Toys,Canada,-0.47405451829447366534,468,173,Unprofitable,High Frequency,Unprofitable - High Frequency
+4,Modular Cycle Systems,United States,-2.9755224812228264,980,235,Unprofitable,High Frequency,Unprofitable - High Frequency
+592,Cycling Goods,United Kingdom,-1.5517444891455102,222,97,Unprofitable,High Frequency,Unprofitable - High Frequency
+426,Custom Accessories Company,Canada,-1.6174544099005216,897,250,Unprofitable,High Frequency,Unprofitable - High Frequency
+40,Journey Sporting Goods,United States,6.4842090844487151,154,52,High-Profit,High Frequency,Mid Profit - High Frequency
+411,Kids and Adults Cycle Shop,Australia,8.9560014079549454,5,3,High-Profit,Low Frequency,High Profit - Low Frequency
+622,Gift and Toy Store,United States,-1.6656856429291153,282,107,Unprofitable,High Frequency,Unprofitable - High Frequency
+544,Valley Bicycle Specialists,United States,10.2618904687916882,286,110,High-Profit,High Frequency,High Profit - High Frequency
+17,Trusted Catalog Store,United States,7.7342335434061277,325,104,High-Profit,High Frequency,Mid Profit - High Frequency
+297,Blue-Ribbon Bike Company,United States,-6.7153187666988638,175,89,Unprofitable,High Frequency,Unprofitable - High Frequency
+559,Some Discount Store,United States,6.3604393839295586,76,31,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+647,Solid Bike Parts,United States,0.53618598294192632699,243,114,Mid-Profit,High Frequency,Mid Profit - High Frequency
+486,Convenient Bike Shop,United States,0.47980861566453830214,80,31,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+660,Exhilarating Cycles,United States,-1.4805449458628434,1627,373,Unprofitable,High Frequency,Unprofitable - High Frequency
+623,Hardware Components,United States,6.8402563770846699,431,85,High-Profit,High Frequency,Mid Profit - High Frequency
+345,Genial Bike Associates,United States,10.3951480497143799,680,250,High-Profit,High Frequency,High Profit - High Frequency
+222,Sample Bike Store,United States,-0.40584266652966561959,105,58,Unprofitable,High Frequency,Unprofitable - High Frequency
+243,Recreation Supplies,United States,7.6474945601012361,2,1,High-Profit,Low Frequency,Mid Profit - Low Frequency
+81,Rally Day Mall,United States,-2.1307923763204310,1588,358,Unprofitable,High Frequency,Unprofitable - High Frequency
+365,Distinctive Store,United States,0.04787463377468557518,51,24,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+587,Our Sporting Goods Store,Canada,-3.6184310873275437,20,15,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+596,Coho Sports,United States,8.1846629675563227,21,14,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+34,Cycles Wholesaler & Mfg.,United Kingdom,-5.5852893809595058,231,104,Unprofitable,High Frequency,Unprofitable - High Frequency
+531,Sunny Place Bikes,United States,-1.6421412402793422,338,106,Unprofitable,High Frequency,Unprofitable - High Frequency
+30,Cycle Merchants,Canada,3.8458695098610986,17,14,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+41,Distant Inn,United States,-3.9451925583176099,359,96,Unprofitable,High Frequency,Unprofitable - High Frequency
+304,Essential Bike Works,United Kingdom,37.6159554730983302,4,1,High-Profit,Low Frequency,High Profit - Low Frequency
+48,Grand Industries,Canada,-7.0443336744209723,181,58,Unprofitable,High Frequency,Unprofitable - High Frequency
+100,Up-To-Date Sports,Canada,9.6169832912909992,296,115,High-Profit,High Frequency,High Profit - High Frequency
+97,Mountain Bike Center,United States,-3.6855674068807435,862,255,Unprofitable,High Frequency,Unprofitable - High Frequency
+79,Reasonable Bicycle Sales,United States,-2.7776258762474466,1386,329,Unprofitable,High Frequency,Unprofitable - High Frequency
+478,Major Cycling,Canada,0.28566120117051419016,18,14,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+614,Favorite Toy Distributor,France,-6.5495271836339839,478,112,Unprofitable,High Frequency,Unprofitable - High Frequency
+162,Tire Company,United States,-0.05777041349411422726,26,17,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+159,Uncompromising Quality Co,Australia,-3.1108260136755416,14,11,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+21,Chic Department Stores,United States,10.6364629815099840,596,218,High-Profit,High Frequency,High Profit - High Frequency
+327,World of Bikes,United States,10.3938558911759919,879,244,High-Profit,High Frequency,High Profit - High Frequency
+319,Cycles Sales and Repair,France,-8.6054364013814635,117,38,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+18,Catalog Store,United States,9.4974557294788580,681,255,High-Profit,High Frequency,High Profit - High Frequency
+240,Wire Baskets and Parts,United States,-0.10430197227091698430,174,90,Unprofitable,High Frequency,Unprofitable - High Frequency
+540,Guaranteed Sales and Service,United States,-3.8372357956878571,377,91,Unprofitable,High Frequency,Unprofitable - High Frequency
+239,Bicycle Merchandise Warehouse,United States,-0.73772404983765698707,1056,219,Unprofitable,High Frequency,Unprofitable - High Frequency
+72,Outdoor Equipment Store,United States,-2.6282520800273512,1547,305,Unprofitable,High Frequency,Unprofitable - High Frequency
+103,The Bike Outlet,France,-8.3295758487037722,176,100,Unprofitable,High Frequency,Unprofitable - High Frequency
+533,Tenth Bike Store,Canada,-0.81040573027771837088,928,282,Unprofitable,High Frequency,Unprofitable - High Frequency
+368,Elemental Sporting Goods,United States,2.9594498753139146,194,71,High-Profit,High Frequency,Mid Profit - High Frequency
+574,Area Sheet Metal Supply,United Kingdom,2.3369509677683079,15,7,High-Profit,Low Frequency,Mid Profit - Low Frequency
+449,Bike Products and Accessories,United States,15.2544734107544563,42,22,High-Profit,Mid Frequency,High Profit - Mid Frequency
+309,The Gear Store,United States,8.9561960224717374,1579,393,High-Profit,High Frequency,High Profit - High Frequency
+250,Express Bike Services,United Kingdom,15.0688413279443369,140,39,High-Profit,Mid Frequency,High Profit - Mid Frequency
+291,Grand Bicycle Stores,United States,10.0328207955732017,17,9,High-Profit,Low Frequency,High Profit - Low Frequency
+323,Metro Bike Works,United States,10.5520202105452684,17,9,High-Profit,Low Frequency,High Profit - Low Frequency
+295,Engineered Bike Systems,United States,-7.9361076878380257,33,23,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+6,Aerobic Exercise Company,United States,2.7285057325110730,8,5,High-Profit,Low Frequency,Mid Profit - Low Frequency
+386,Touring Services,United States,0.15230565587209452333,27,19,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+348,Bold Bike Accessories,United States,7.1547034246678915,172,75,High-Profit,High Frequency,Mid Profit - High Frequency
+634,Sensible Sports,Australia,-9.3818000292480288,28,21,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+695,Responsible Bike Dealers,United States,12.8952221907080409,170,60,High-Profit,High Frequency,High Profit - High Frequency
+94,Specialty Sports Store,United States,12.4997876208437399,31,15,High-Profit,Mid Frequency,High Profit - Mid Frequency
+439,Regional Manufacturing,United States,13.8777068295391449,4,2,High-Profit,Low Frequency,High Profit - Low Frequency
+586,One Bike Company,Canada,11.5284456058931150,160,42,High-Profit,Mid Frequency,High Profit - Mid Frequency
+474,Retail Cycle Shop,United States,31.2417727073277753,4,1,High-Profit,Low Frequency,High Profit - Low Frequency
+529,Big-Time Bike Store,United States,-0.42515446846807043359,134,75,Unprofitable,High Frequency,Unprofitable - High Frequency
+557,Purchase Mart,United States,-3.4721508316713613,31,17,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+423,Bike Rims Company,United States,0.10931943258519467791,203,80,Mid-Profit,High Frequency,Mid Profit - High Frequency
+274,Active Systems,United States,22.5598855917053986,20,6,High-Profit,Low Frequency,High Profit - Low Frequency
+28,Commuter Bicycle Store,Canada,-2.8686693561831094,51,20,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+430,Uttermost Bike Shop,United Kingdom,-2.3379109568757231,879,283,Unprofitable,High Frequency,Unprofitable - High Frequency
+285,Nearest Bike Store,Australia,0.10058219876311079899,5,4,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+536,Next Door Cycles,Germany,-8.6366790305904196,292,99,Unprofitable,High Frequency,Unprofitable - High Frequency
+575,Bicycle Outfitters,United States,-0.00209366167706454857,302,116,Unprofitable,High Frequency,Unprofitable - High Frequency
+350,Mountain Emporium,United States,10.0570463048638211,5,1,High-Profit,Low Frequency,High Profit - Low Frequency
+101,Urban Sports Emporium,Canada,0.86055604636159525013,257,103,Mid-Profit,High Frequency,Mid Profit - High Frequency
+459,Parts Shop,United States,25.9777686290654590,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+349,Exercise Center,United States,19.6628211044454699,14,6,High-Profit,Low Frequency,High Profit - Low Frequency
+481,Getaway Inn,France,-1.4184342978658055,968,248,Unprofitable,High Frequency,Unprofitable - High Frequency
+127,Front Sporting Goods,United States,12.4112410225718194,692,181,High-Profit,High Frequency,High Profit - High Frequency
+272,Metro Cycle Shop,United States,0.91816026542768397421,320,123,Mid-Profit,High Frequency,Mid Profit - High Frequency
+656,Impervious Paint Company,France,11.8007630325200186,41,17,High-Profit,Mid Frequency,High Profit - Mid Frequency
+636,Recreation Systems,United States,10.6826461116097355,23,14,High-Profit,Mid Frequency,High Profit - Mid Frequency
+104,Very Best Sports Supply,Germany,-4.3621375829477497,29,19,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+511,Wheel Gallery,United States,-0.02827857642864758867,28,22,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+168,Economy Bikes Company,United States,10.1257826251195538,6,5,High-Profit,Low Frequency,High Profit - Low Frequency
+148,Lots of Bikes Storehouse,United States,11.8442701640893851,6,6,High-Profit,Low Frequency,High Profit - Low Frequency
+98,Superlative Bikes,United States,11.2288131760381069,64,36,High-Profit,Mid Frequency,High Profit - Mid Frequency
+434,Road-Way Mart,United States,10.0571267650963511,2,1,High-Profit,Low Frequency,High Profit - Low Frequency
+264,Fasteners & Bolts Outlet,Canada,-5.8013171818781669,434,147,Unprofitable,High Frequency,Unprofitable - High Frequency
+288,Kickstand Sellers,United States,25.4837516946715418,13,6,High-Profit,Low Frequency,High Profit - Low Frequency
+169,Downtown Hotel,United States,-10.3439140567984745,194,54,Unprofitable,High Frequency,Unprofitable - High Frequency
+645,Superior Hardware Distributors,United States,9.0970112005874715,10,8,High-Profit,Low Frequency,High Profit - Low Frequency
+467,The Cycle Store,United States,8.7275638887035431,1,1,High-Profit,Low Frequency,Mid Profit - Low Frequency
+670,First Bike Store,United States,-3.0362197679628274,1155,312,Unprofitable,High Frequency,Unprofitable - High Frequency
+604,Sellers of Cycles,United States,-5.4770275839232014,48,19,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+206,New and Used Bicycles,United States,-2.1711936149378424,685,304,Unprofitable,High Frequency,Unprofitable - High Frequency
+346,Great Bicycle Supply,United States,6.5010905631167811,188,38,High-Profit,Mid Frequency,Mid Profit - Mid Frequency
+199,Authorized Bike Sales and Rental,United States,-5.3434610413752221,234,82,Unprofitable,High Frequency,Unprofitable - High Frequency
+83,Requisite Part Supply,Canada,0.20968633543592656804,81,27,Mid-Profit,Mid Frequency,Mid Profit - Mid Frequency
+234,Eastside Sporting Goods,United States,-0.77335861363759099218,772,194,Unprofitable,High Frequency,Unprofitable - High Frequency
+354,Serious Cycles,Canada,6.9213942940906614,195,67,High-Profit,High Frequency,Mid Profit - High Frequency
+661,General Department Stores,Canada,6.2717796417174312,111,53,High-Profit,High Frequency,Mid Profit - High Frequency
+514,Retail Mall,Canada,-2.3021800825505124,1931,451,Unprofitable,High Frequency,Unprofitable - High Frequency
+173,Sundry Sporting Goods,Canada,-1.7626279943734030,726,295,Unprofitable,High Frequency,Unprofitable - High Frequency
+142,Riding Cycles,United Kingdom,-4.9067955689681763,807,138,Unprofitable,High Frequency,Unprofitable - High Frequency
+524,Chain and Chain Tool Distributions,United States,26.0001210433940568,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+609,Good Toys,United States,6.0846725385973390,8,6,High-Profit,Low Frequency,Mid Profit - Low Frequency
+181,Family Entertainment Center,United States,-5.8685327617366452,8,7,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+494,Worthwhile Activity Store,United States,9.7538161387835734,304,112,High-Profit,High Frequency,High Profit - High Frequency
+528,Alpine Ski House,United States,-0.41553455899136587047,27,14,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+278,Tread Industries,United States,6.3185944069653664,356,81,High-Profit,High Frequency,Mid Profit - High Frequency
+570,Family's Favorite Bike Shop,Canada,11.4337846378054510,25,17,High-Profit,Mid Frequency,High Profit - Mid Frequency
+410,Pedaling Components,Germany,-7.2138344201801827,105,37,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+226,Leisure Activities,Canada,11.1446275403402454,50,23,High-Profit,Mid Frequency,High Profit - Mid Frequency
+615,Fast Services,Germany,-2.7368675576546249,19,12,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+385,Sturdy Toys,United States,8.5373678749389519,732,193,High-Profit,High Frequency,Mid Profit - High Frequency
+366,Extended Bike Sales,United States,-7.5283097672113715,263,78,Unprofitable,High Frequency,Unprofitable - High Frequency
+621,Running and Cycling Gear,United States,-5.8251945455908624,285,103,Unprofitable,High Frequency,Unprofitable - High Frequency
+519,List Price Catalog Company,Australia,-5.2540161669480068,250,68,Unprofitable,High Frequency,Unprofitable - High Frequency
+665,Authentic Sales and Service,United Kingdom,28.4332748350100106,40,13,High-Profit,Mid Frequency,High Profit - Mid Frequency
+92,Sports Commodities,United States,-3.3704928038973985,33,22,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+263,Farthest Bike Store,Canada,-5.0197469518103629,794,145,Unprofitable,High Frequency,Unprofitable - High Frequency
+147,Local Hardware Factory,United States,-2.0922901504147418,105,32,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+591,Fitness Discount Store,Australia,-20.2563033508152114,73,26,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+552,Consolidated Messenger,Canada,-4.5735460013235550,492,139,Unprofitable,High Frequency,Unprofitable - High Frequency
+266,Excellent Bikes,Germany,-5.5320399882769973,846,155,Unprofitable,High Frequency,Unprofitable - High Frequency
+284,Nearby Bike Mall,Germany,-3.9984947029885592,38,22,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+555,Twin Cycles,Australia,-2.6222389591692550,10,10,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+427,Atypical Bike Company,France,0.59550355465778220835,2,2,Mid-Profit,Low Frequency,Mid Profit - Low Frequency
+113,Trendy Department Stores,United States,-1.8190067210399147,6,5,Unprofitable,Low Frequency,Unprofitable - Low Frequency
+86,Bicycle Exporters,Germany,-5.4280750973447108,62,38,Unprofitable,Mid Frequency,Unprofitable - Mid Frequency
+224,Pedal Systems Company,United States,1.6153056273343790,5,4,High-Profit,Low Frequency,Mid Profit - Low Frequency
+219,Extras Sporting Goods,United States,25.9994077583654131,1,1,High-Profit,Low Frequency,High Profit - Low Frequency
+233,Fashionable Department Stores,United States,11.0071240561140114,1648,401,High-Profit,High Frequency,High Profit - High Frequency

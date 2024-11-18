@@ -1,0 +1,335 @@
+"product_key","product_names","product_category","product_subcategory","profit_margin","product_sold","segmentasi_profit","frequency_segment","segmentasi_gabungan"
+262,"LL Road Frame - Red, 44",Components,Road Frames,1.3338041426193288,303,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+265,"LL Road Frame - Red, 48",Components,Road Frames,7.4990629551985464,466,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+495,"HL Touring Frame - Yellow, 50",Components,Touring Frames,0.10077812518254121973,81,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+352,"Mountain-200 Silver, 38",Bikes,Mountain Bikes,9.9490366692469579,945,High-Profit,High Frequency,High Profit - High Frequency
+323,"Road-650 Red, 60",Bikes,Road Bikes,-4.8277407931215307,1464,Unprofitable,High Frequency,Unprofitable - All Frequencies
+545,LL Road Pedal,Components,Pedals,25.9853240263174531,801,High-Profit,High Frequency,High Profit - High Frequency
+293,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,13.6661177154402912,127,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+585,"Touring-3000 Blue, 44",Bikes,Touring Bikes,-13.6337208415706086,218,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+523,HL Touring Seat/Saddle,Components,Saddles,25.9924404636247575,378,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+255,"LL Road Frame - Black, 58",Components,Road Frames,-1.1348309436444729,290,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+300,"HL Mountain Frame - Black, 48",Components,Mountain Frames,13.6666636500344650,131,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+221,"Sport-100 Helmet, Blue",Accessories,Helmets,29.5273569517615708,1739,High-Profit,High Frequency,High Profit - High Frequency
+532,"LL Mountain Frame - Black, 44",Components,Mountain Frames,8.6726086687753418,580,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+344,"Mountain-100 Silver, 38",Bikes,Mountain Bikes,-0.24176466527105928744,584,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+334,"Road-650 Black, 60",Bikes,Road Bikes,1.5050399924548460,319,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+592,"Mountain-500 Silver, 42",Bikes,Mountain Bikes,1.0549490593826392,370,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+364,"Mountain-300 Black, 38",Bikes,Mountain Bikes,7.5482355774803458,684,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+533,"LL Mountain Frame - Black, 48",Components,Mountain Frames,8.7301048505604082,344,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+581,"Road-350-W Yellow, 42",Bikes,Road Bikes,-6.3348509547143169,642,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+218,"Mountain Bike Socks, M",Clothing,Socks,38.8498007644140847,1107,High-Profit,High Frequency,High Profit - High Frequency
+280,"LL Road Frame - Black, 44",Components,Road Frames,7.5008871278382823,129,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+490,"Short-Sleeve Classic Jersey, L",Clothing,Jerseys,-30.2271872104736120,2217,Unprofitable,High Frequency,Unprofitable - All Frequencies
+267,"LL Road Frame - Red, 52",Components,Road Frames,7.4989278135527556,93,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+482,"Racing Socks, L",Clothing,Socks,35.7586948593286486,1996,High-Profit,High Frequency,High Profit - High Frequency
+397,LL Mountain Handlebars,Components,Handlebars,25.9852182948107197,420,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+256,"LL Road Frame - Black, 60",Components,Road Frames,1.3327360286706238,1,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+587,"Mountain-400-W Silver, 38",Bikes,Mountain Bikes,9.0777403902712074,255,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+423,ML Road Rear Wheel,Components,Wheels,26.0001210433940568,64,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+548,Touring Pedal,Components,Pedals,25.9930026754476230,137,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+407,HL Road Handlebars,Components,Handlebars,25.9964649109681281,326,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+463,"Half-Finger Gloves, S",Clothing,Gloves,37.3124461492703897,1116,High-Profit,High Frequency,High Profit - High Frequency
+436,"ML Road Frame-W - Yellow, 48",Components,Road Frames,-1.1328040145950932,356,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+586,"Touring-3000 Blue, 50",Bikes,Touring Bikes,-13.5018736806911481,712,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+555,Front Brakes,Components,Brakes,25.8795931940666334,720,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+473,"Classic Vest, L",Clothing,Vests,37.6640419947506562,12,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+379,"Road-250 Black, 58",Bikes,Road Bikes,-0.89721186720378775767,343,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+234,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,-30.7634230123482458,2562,Unprofitable,High Frequency,Unprofitable - All Frequencies
+220,"Sport-100 Helmet, Blue",Accessories,Helmets,40.3917046718013272,661,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+233,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,-2.2869270987637292,2346,Unprofitable,High Frequency,Unprofitable - All Frequencies
+460,"Men's Bib-Shorts, M",Clothing,Bib-Shorts,30.6645581545083346,1606,High-Profit,High Frequency,High Profit - High Frequency
+357,"Mountain-200 Silver, 46",Bikes,Mountain Bikes,8.9059542243261365,634,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+569,"Touring-3000 Yellow, 50",Bikes,Touring Bikes,-13.4613906739177872,558,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+435,"ML Road Frame-W - Yellow, 48",Components,Road Frames,7.4989879893481776,493,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+230,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,-1.1977699121412396,1238,Unprofitable,High Frequency,Unprofitable - All Frequencies
+564,"Touring-1000 Yellow, 60",Bikes,Touring Bikes,-17.6526337434463836,865,Unprofitable,High Frequency,Unprofitable - All Frequencies
+229,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,-9.9989843752479553,437,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+509,"LL Touring Frame - Yellow, 58",Components,Touring Frames,0.09941958954705768002,36,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+240,"HL Road Frame - Red, 62",Components,Road Frames,-1.1332588438030136,191,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+312,"Road-150 Red, 48",Bikes,Road Bikes,-1.1333944573269013,156,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+362,"Mountain-200 Black, 46",Bikes,Mountain Bikes,9.9671541054307065,766,High-Profit,High Frequency,High Profit - High Frequency
+417,"ML Road Frame-W - Yellow, 38",Components,Road Frames,7.4990181895913183,496,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+447,Cable Lock,Accessories,Locks,31.0744661209920610,1086,High-Profit,High Frequency,High Profit - High Frequency
+273,"LL Road Frame - Red, 62",Components,Road Frames,7.4296696624283381,489,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+333,"Road-650 Black, 58",Bikes,Road Bikes,-4.0623821896395601,1229,Unprofitable,High Frequency,Unprofitable - All Frequencies
+466,"Half-Finger Gloves, L",Clothing,Gloves,31.2579261602473674,298,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+588,"Mountain-400-W Silver, 40",Bikes,Mountain Bikes,8.9262956389605070,461,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+394,LL Headset,Components,Headsets,26.0049245921822099,95,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+309,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,8.6603922077879881,459,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+556,LL Crankset,Components,Cranksets,25.9964498526559938,361,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+215,"Sport-100 Helmet, Black",Accessories,Helmets,40.3820354295193124,600,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+584,"Road-750 Black, 58",Bikes,Road Bikes,-6.0680885212506559,505,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+474,"Women's Mountain Shorts, S",Clothing,Shorts,34.2112109745649192,2729,High-Profit,High Frequency,High Profit - High Frequency
+428,"ML Mountain Frame - Black, 48",Components,Mountain Frames,11.0776521005747086,958,High-Profit,High Frequency,High Profit - High Frequency
+458,"Women's Tights, L",Clothing,Tights,30.5554882347288728,2112,High-Profit,High Frequency,High Profit - High Frequency
+395,ML Headset,Components,Headsets,25.3642321350197502,659,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+419,LL Mountain Rear Wheel,Components,Wheels,26.0025657686476400,342,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+354,"Mountain-200 Silver, 42",Bikes,Mountain Bikes,9.9462193921633486,948,High-Profit,High Frequency,High Profit - High Frequency
+320,"Road-650 Red, 58",Bikes,Road Bikes,1.5050439433654614,157,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+598,"Mountain-500 Black, 44",Bikes,Mountain Bikes,9.0774406617488194,271,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+471,"Classic Vest, S",Clothing,Vests,35.0240733417848990,3696,High-Profit,High Frequency,High Profit - High Frequency
+500,"HL Touring Frame - Blue, 60",Components,Touring Frames,-0.48184374997082956365,322,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+441,"HL Road Frame - Black, 48",Components,Road Frames,7.5001547518420805,48,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+574,"Touring-1000 Blue, 50",Bikes,Touring Bikes,-3.6001826651099107,446,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+287,"LL Road Frame - Black, 52",Components,Road Frames,-1.3392043776033661,545,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+359,"Mountain-200 Black, 38",Bikes,Mountain Bikes,8.5400822518400589,1076,Mid-Profit,High Frequency,Mid Profit - High Frequency
+580,"Road-350-W Yellow, 40",Bikes,Road Bikes,-7.0952404470861316,1151,Unprofitable,High Frequency,Unprofitable - All Frequencies
+526,"LL Mountain Frame - Silver, 48",Components,Mountain Frames,8.7335674487729023,44,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+591,"Mountain-500 Silver, 40",Bikes,Mountain Bikes,3.0447372571125629,375,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+542,LL Mountain Pedal,Components,Pedals,25.9841587601888546,393,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+603,HL Bottom Bracket,Components,Bottom Brackets,25.9968480780663522,468,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+322,"Road-650 Red, 60",Bikes,Road Bikes,1.4537852885449326,704,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+510,"LL Touring Frame - Blue, 44",Components,Touring Frames,0.09937515621094726318,25,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+600,"Mountain-500 Black, 52",Bikes,Mountain Bikes,9.0774406617488194,207,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+370,"Road-250 Red, 52",Bikes,Road Bikes,-3.6000204690998959,506,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+367,"Mountain-300 Black, 48",Bikes,Mountain Bikes,7.5932356742603475,740,Mid-Profit,High Frequency,Mid Profit - High Frequency
+402,HL Mountain Handlebars,Components,Handlebars,25.9977827050997783,214,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+235,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,-9.9992977404799944,474,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+347,"Mountain-100 Silver, 48",Bikes,Mountain Bikes,1.3590004290904140,469,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+571,"Touring-3000 Yellow, 58",Bikes,Touring Bikes,-14.9899522201502888,212,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+465,"Half-Finger Gloves, M",Clothing,Gloves,36.8084057670660388,1751,High-Profit,High Frequency,High Profit - High Frequency
+507,"LL Touring Frame - Yellow, 50",Components,Touring Frames,0.09922402028600831013,213,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+457,"Women's Tights, M",Clothing,Tights,31.2441117766723118,394,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+516,ML Mountain Seat/Saddle,Components,Saddles,25.8057543245332841,476,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+237,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,-28.5558588345210111,938,Unprofitable,High Frequency,Unprofitable - All Frequencies
+299,"HL Mountain Frame - Black, 44",Components,Mountain Frames,13.6667218754721806,17,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+521,LL Touring Seat/Saddle,Components,Saddles,25.9960690815023943,91,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+321,"Road-650 Red, 58",Bikes,Road Bikes,-3.6009326944861229,387,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+595,"Mountain-500 Silver, 52",Bikes,Mountain Bikes,2.7323316001766045,419,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+384,"Road-550-W Yellow, 40",Bikes,Road Bikes,-6.1478909953737828,527,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+223,AWC Logo Cap,Clothing,Caps,-10.3297048459446991,985,Unprofitable,High Frequency,Unprofitable - All Frequencies
+506,"LL Touring Frame - Yellow, 44",Components,Touring Frames,-0.03315836797946096601,277,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+440,"HL Road Frame - Black, 44",Components,Road Frames,-1.1332588438030136,191,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+550,"LL Mountain Frame - Black, 40",Components,Mountain Frames,8.7283979448855675,8,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+477,Water Bottle - 30 oz.,Accessories,Bottles and Cages,36.3579066298960344,2348,High-Profit,High Frequency,High Profit - High Frequency
+330,"Road-650 Red, 52",Bikes,Road Bikes,1.5050554498789186,322,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+216,"Sport-100 Helmet, Black",Accessories,Helmets,29.6616524222529660,1635,High-Profit,High Frequency,High Profit - High Frequency
+468,"Full-Finger Gloves, S",Clothing,Gloves,31.2415056958008877,493,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+553,LL Touring Handlebars,Components,Handlebars,25.9907000774993542,56,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+351,"Mountain-100 Black, 48",Bikes,Mountain Bikes,-0.10575860336261128110,559,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+422,LL Road Rear Wheel,Components,Wheels,26.0001942224298183,866,High-Profit,High Frequency,High Profit - High Frequency
+381,"Road-550-W Yellow, 38",Bikes,Road Bikes,-0.99793810505992564630,774,Unprofitable,High Frequency,Unprofitable - All Frequencies
+513,"ML Mountain Frame-W - Silver, 46",Components,Mountain Frames,8.7313624180296600,183,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+317,"Road-450 Red, 44",Bikes,Road Bikes,-1.1338443769857367,346,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+403,LL Road Handlebars,Components,Handlebars,25.9840738226905374,111,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+315,"Road-450 Red, 58",Bikes,Road Bikes,-1.2788228956804342,582,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+266,"LL Road Frame - Red, 52",Components,Road Frames,1.3327327234035943,7,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+524,"LL Mountain Frame - Silver, 42",Components,Mountain Frames,8.4161079749273628,587,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+304,"HL Mountain Frame - Black, 38",Components,Mountain Frames,13.6660473359559982,129,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+597,"Mountain-500 Black, 42",Bikes,Mountain Bikes,9.0774406617488194,320,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+578,"Touring-2000 Blue, 50",Bikes,Touring Bikes,-3.5999028800995093,192,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+307,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,13.6661177154402912,181,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+411,ML Mountain Front Wheel,Components,Wheels,26.0032156615426303,266,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+412,HL Mountain Front Wheel,Components,Wheels,25.9998909696350434,222,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+579,"Touring-2000 Blue, 54",Bikes,Touring Bikes,-4.3368230580501251,826,Unprofitable,High Frequency,Unprofitable - All Frequencies
+570,"Touring-3000 Yellow, 54",Bikes,Touring Bikes,-13.0176977720746714,357,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+502,"LL Touring Frame - Blue, 50",Components,Touring Frames,0.09917041287623299655,292,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+355,"Mountain-200 Silver, 42",Bikes,Mountain Bikes,8.7365865316682413,672,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+342,"Road-650 Black, 52",Bikes,Road Bikes,1.1963937691361653,704,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+243,"HL Road Frame - Red, 44",Components,Road Frames,-1.1332809407381535,192,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+219,"Mountain Bike Socks, L",Clothing,Socks,40.4035087719298246,90,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+518,LL Road Seat/Saddle,Components,Saddles,25.9926244622003688,10,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+236,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,-1.11724644986223911651,1101,Unprofitable,High Frequency,Unprofitable - All Frequencies
+572,"Touring-3000 Yellow, 62",Bikes,Touring Bikes,-13.0491615022825862,721,Unprofitable,High Frequency,Unprofitable - All Frequencies
+298,"HL Mountain Frame - Black, 42",Components,Mountain Frames,8.7333901402884805,440,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+520,HL Road Seat/Saddle,Components,Saddles,25.9922716117796073,128,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+543,ML Mountain Pedal,Components,Pedals,25.9910661238860161,305,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+421,HL Mountain Rear Wheel,Components,Wheels,25.7542765842638533,850,High-Profit,High Frequency,High Profit - High Frequency
+505,"LL Touring Frame - Blue, 62",Components,Touring Frames,0.09930850620678163792,15,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+459,"Men's Bib-Shorts, S",Clothing,Bib-Shorts,31.1508071555827056,872,High-Profit,High Frequency,High Profit - High Frequency
+424,HL Road Rear Wheel,Components,Wheels,26.0019238886904569,92,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+453,"Men's Sports Shorts, M",Clothing,Shorts,30.9146939807678738,1274,High-Profit,High Frequency,High Profit - High Frequency
+343,"Road-650 Black, 52",Bikes,Road Bikes,-4.7873815812552413,1472,Unprofitable,High Frequency,Unprofitable - All Frequencies
+517,HL Mountain Seat/Saddle,Components,Saddles,25.9920653675438964,469,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+493,"LL Touring Frame - Yellow, 62",Components,Touring Frames,-0.41037783779318367629,312,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+462,"Half-Finger Gloves, S",Clothing,Gloves,31.2037929926068788,520,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+534,"LL Mountain Frame - Black, 52",Components,Mountain Frames,8.7293432085585285,15,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+409,"ML Mountain Frame - Black, 38",Components,Mountain Frames,11.2013762783140591,514,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+217,"Sport-100 Helmet, Black",Accessories,Helmets,35.1828667132705623,2003,High-Profit,High Frequency,High Profit - High Frequency
+224,AWC Logo Cap,Clothing,Caps,-2.1838734433764262,2304,Unprofitable,High Frequency,Unprofitable - All Frequencies
+332,"Road-650 Black, 58",Bikes,Road Bikes,1.5051196776808277,560,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+222,"Sport-100 Helmet, Blue",Accessories,Helmets,35.0626144981122918,2012,High-Profit,High Frequency,High Profit - High Frequency
+297,"HL Mountain Frame - Black, 42",Components,Mountain Frames,11.2006008695199177,515,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+356,"Mountain-200 Silver, 46",Bikes,Mountain Bikes,9.9412085046383841,933,High-Profit,High Frequency,High Profit - High Frequency
+583,"Road-350-W Yellow, 48",Bikes,Road Bikes,-7.7075651490140903,1277,Unprofitable,High Frequency,Unprofitable - All Frequencies
+567,"Touring-3000 Blue, 62",Bikes,Touring Bikes,-12.1166989015095786,181,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+476,"Women's Mountain Shorts, L",Clothing,Shorts,33.9925085575676517,2635,High-Profit,High Frequency,High Profit - High Frequency
+239,"HL Road Frame - Red, 62",Components,Road Frames,7.5001915872309885,247,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+385,"Road-550-W Yellow, 42",Bikes,Road Bikes,-0.89792450884695527402,507,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+319,"Road-450 Red, 52",Bikes,Road Bikes,-1.1338077275367014,710,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+258,"LL Road Frame - Black, 60",Components,Road Frames,-1.13489324776193412320,61,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+358,"Mountain-200 Black, 38",Bikes,Mountain Bikes,9.9871374512786055,1198,High-Profit,High Frequency,High Profit - High Frequency
+349,"Mountain-100 Black, 42",Bikes,Mountain Bikes,0.27271412497120628852,589,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+470,"Full-Finger Gloves, L",Clothing,Gloves,26.7967804399832139,3365,High-Profit,High Frequency,High Profit - High Frequency
+242,"HL Road Frame - Red, 44",Components,Road Frames,7.5001869829153966,250,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+604,"Road-750 Black, 44",Bikes,Road Bikes,-6.0680885212506559,272,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+294,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,11.1997358168754021,263,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+329,"Road-650 Red, 48",Bikes,Road Bikes,-4.2470082381918410,1237,Unprofitable,High Frequency,Unprofitable - All Frequencies
+561,"Touring-1000 Yellow, 46",Bikes,Touring Bikes,-17.0499959351170066,758,Unprofitable,High Frequency,Unprofitable - All Frequencies
+387,"Road-550-W Yellow, 44",Bikes,Road Bikes,-0.89790548126819463504,344,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+324,"Road-650 Red, 62",Bikes,Road Bikes,1.5050903957261821,575,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+551,"LL Mountain Frame - Silver, 40",Components,Mountain Frames,8.6487279874665365,396,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+335,"Road-650 Black, 60",Bikes,Road Bikes,-3.6548232274875405,705,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+560,"Touring-2000 Blue, 60",Bikes,Touring Bikes,-3.7793302131926471,675,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+599,"Mountain-500 Black, 48",Bikes,Mountain Bikes,9.0774406617488194,360,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+373,"Road-250 Black, 44",Bikes,Road Bikes,-1.1541375769313013,748,Unprofitable,High Frequency,Unprofitable - All Frequencies
+286,"LL Road Frame - Black, 52",Components,Road Frames,7.4514635269302653,687,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+372,"Road-250 Red, 58",Bikes,Road Bikes,-6.0666827090184754,274,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+512,"ML Mountain Frame-W - Silver, 42",Components,Mountain Frames,8.7315078385165652,568,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+549,"ML Mountain Frame-W - Silver, 38",Components,Mountain Frames,8.7303403851813099,7,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+285,"LL Road Frame - Black, 52",Components,Road Frames,1.3327360286706238,303,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+400,ML Mountain Handlebars,Components,Handlebars,25.8936154702913648,636,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+281,"LL Road Frame - Black, 44",Components,Road Frames,-1.13482803389295198740,82,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+576,"Touring-1000 Blue, 60",Bikes,Touring Bikes,-4.7042363632974451,893,Unprofitable,High Frequency,Unprofitable - All Frequencies
+331,"Road-650 Red, 52",Bikes,Road Bikes,-3.6009172121997947,729,Unprofitable,High Frequency,Unprofitable - All Frequencies
+327,"Road-650 Red, 44",Bikes,Road Bikes,-16.6491608213872978,1467,Unprofitable,High Frequency,Unprofitable - All Frequencies
+522,ML Touring Seat/Saddle,Components,Saddles,25.9863924117189307,81,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+401,HL Mountain Handlebars,Components,Handlebars,25.9965408067542214,260,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+418,"ML Road Frame-W - Yellow, 38",Components,Road Frames,-1.1328088126664100,374,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+378,"Road-250 Black, 52",Bikes,Road Bikes,-6.0666955639022678,385,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+605,"Road-750 Black, 48",Bikes,Road Bikes,-6.7655950863992620,1097,Unprofitable,High Frequency,Unprofitable - All Frequencies
+289,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,11.1997746113641555,160,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+439,"HL Road Frame - Black, 44",Components,Road Frames,7.5001983530759720,246,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+454,"Men's Sports Shorts, L",Clothing,Shorts,31.2419492305915189,445,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+596,"Mountain-500 Black, 40",Bikes,Mountain Bikes,9.0774406617488194,216,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+374,"Road-250 Black, 44",Bikes,Road Bikes,-6.0666787019431085,584,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+238,"HL Road Frame - Red, 62",Components,Road Frames,1.3337202757844379,30,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+389,"Road-550-W Yellow, 48",Bikes,Road Bikes,-1.2362024037474263,778,Unprofitable,High Frequency,Unprofitable - All Frequencies
+383,"Road-550-W Yellow, 40",Bikes,Road Bikes,-0.89791165682840693845,665,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+313,"Road-150 Red, 52",Bikes,Road Bikes,-1.1333944573269013,156,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+275,"ML Road Frame - Red, 48",Components,Road Frames,1.3337069207060801,250,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+487,Hydration Pack - 70 oz.,Accessories,Hydration Packs,36.7917431138437430,1820,High-Profit,High Frequency,High Profit - High Frequency
+308,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,11.1997145370114857,520,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+503,"LL Touring Frame - Blue, 54",Components,Touring Frames,0.09923539523282444695,196,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+594,"Mountain-500 Silver, 48",Bikes,Mountain Bikes,0.61542955865139114138,368,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+544,HL Mountain Pedal,Components,Pedals,25.8553359045791701,700,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+590,"Mountain-400-W Silver, 46",Bikes,Mountain Bikes,8.9325624430469855,230,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+546,ML Road Pedal,Components,Pedals,25.9913694603139387,605,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+288,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,13.6661177154402912,24,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+558,HL Crankset,Components,Cranksets,25.8828055345441123,555,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+360,"Mountain-200 Black, 42",Bikes,Mountain Bikes,9.8935520866523612,1110,High-Profit,High Frequency,High Profit - High Frequency
+501,Rear Derailleur,Components,Derailleurs,26.0037365241601908,302,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+326,"Road-650 Red, 44",Bikes,Road Bikes,1.5051097442743845,705,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+257,"LL Road Frame - Black, 60",Components,Road Frames,7.5009858828073398,67,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+552,Front Derailleur,Components,Derailleurs,25.8722515805943474,723,High-Profit,High Frequency,High Profit - High Frequency
+388,"Road-550-W Yellow, 44",Bikes,Road Bikes,-6.0673221377679275,279,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+496,"HL Touring Frame - Yellow, 54",Components,Touring Frames,-0.34108367137039748628,477,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+225,AWC Logo Cap,Clothing,Caps,-31.3868888740440833,2614,Unprofitable,High Frequency,Unprofitable - All Frequencies
+483,Hitch Rack - 4-Bike,Accessories,Bike Racks,36.2582661383370804,2585,High-Profit,High Frequency,High Profit - High Frequency
+214,"Sport-100 Helmet, Red",Accessories,Helmets,35.1344067744567363,1808,High-Profit,High Frequency,High Profit - High Frequency
+310,"Road-150 Red, 62",Bikes,Road Bikes,-1.1333890287154437,264,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+375,"Road-250 Black, 48",Bikes,Road Bikes,-0.95468907695248286948,644,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+504,"LL Touring Frame - Blue, 58",Components,Touring Frames,0.09872531867033241690,4,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+272,"LL Road Frame - Red, 62",Components,Road Frames,1.3336714905979261,206,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+472,"Classic Vest, M",Clothing,Vests,36.7025407233722785,1911,High-Profit,High Frequency,High Profit - High Frequency
+328,"Road-650 Red, 48",Bikes,Road Bikes,1.5050799971748755,561,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+554,HL Touring Handlebars,Components,Handlebars,25.9977034908488177,188,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+491,"Short-Sleeve Classic Jersey, XL",Clothing,Jerseys,-32.1403545912894876,3159,Unprofitable,High Frequency,Unprofitable - All Frequencies
+442,"HL Road Frame - Black, 48",Components,Road Frames,-1.13326424000198500178,61,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+488,"Short-Sleeve Classic Jersey, S",Clothing,Jerseys,-29.1958250629816980,1419,Unprofitable,High Frequency,Unprofitable - All Frequencies
+305,"HL Mountain Frame - Black, 38",Components,Mountain Frames,11.2005715572637360,266,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+254,"LL Road Frame - Black, 58",Components,Road Frames,7.5009750886058777,436,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+547,HL Road Pedal,Components,Pedals,25.9930026754476230,623,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+346,"Mountain-100 Silver, 44",Bikes,Mountain Bikes,0.99648545715643706244,552,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+399,ML Mountain Handlebars,Components,Handlebars,25.9124135736844964,764,High-Profit,High Frequency,High Profit - High Frequency
+348,"Mountain-100 Black, 38",Bikes,Mountain Bikes,-0.40041635432557651138,633,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+606,"Road-750 Black, 52",Bikes,Road Bikes,-6.3110857338826364,875,Unprofitable,High Frequency,Unprofitable - All Frequencies
+498,"HL Touring Frame - Blue, 50",Components,Touring Frames,0.10078904353587079887,107,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+467,"Half-Finger Gloves, L",Clothing,Gloves,37.5995954001641614,493,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+573,"Touring-1000 Blue, 46",Bikes,Touring Bikes,-4.5705050122363195,731,Unprofitable,High Frequency,Unprofitable - All Frequencies
+368,"Road-250 Red, 44",Bikes,Road Bikes,-3.8835919528735298,751,Unprofitable,High Frequency,Unprofitable - All Frequencies
+279,"LL Road Frame - Black, 44",Components,Road Frames,1.3327360286706238,26,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+398,LL Mountain Handlebars,Components,Handlebars,25.6123326695556254,415,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+353,"Mountain-200 Silver, 38",Bikes,Mountain Bikes,8.7857919843821788,769,Mid-Profit,High Frequency,Mid Profit - High Frequency
+246,"HL Road Frame - Red, 48",Components,Road Frames,-1.13330241311322717391,61,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+363,"Mountain-200 Black, 46",Bikes,Mountain Bikes,8.9261689571301682,658,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+515,LL Mountain Seat/Saddle,Components,Saddles,25.9045290214447364,304,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+456,"Women's Tights, S",Clothing,Tights,30.2935217280652779,2056,High-Profit,High Frequency,High Profit - High Frequency
+420,ML Mountain Rear Wheel,Components,Wheels,25.7035262842246105,847,High-Profit,High Frequency,High Profit - High Frequency
+527,"LL Mountain Frame - Silver, 52",Components,Mountain Frames,8.7333422310749933,393,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+601,LL Bottom Bracket,Components,Bottom Brackets,25.9929677587319899,319,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+475,"Women's Mountain Shorts, M",Clothing,Shorts,37.6598375465911647,719,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+499,"HL Touring Frame - Blue, 54",Components,Touring Frames,-0.38085025494919940596,476,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+270,"LL Road Frame - Red, 60",Components,Road Frames,1.3337682577652133,309,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+366,"Mountain-300 Black, 44",Bikes,Mountain Bikes,7.6473468476394299,747,Mid-Profit,High Frequency,Mid Profit - High Frequency
+593,"Mountain-500 Silver, 44",Bikes,Mountain Bikes,1.9263049614113555,320,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+296,"HL Mountain Frame - Black, 42",Components,Mountain Frames,13.6660239885725037,177,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+492,"HL Touring Frame - Yellow, 60",Components,Touring Frames,-0.12847856611840502399,335,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+263,"LL Road Frame - Red, 44",Components,Road Frames,7.3959916869006837,688,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+430,"ML Road Frame-W - Yellow, 40",Components,Road Frames,-1.13275900852015990592,71,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+433,"ML Road Frame-W - Yellow, 44",Components,Road Frames,7.4481227822926829,787,Mid-Profit,High Frequency,Mid Profit - High Frequency
+340,"Road-650 Black, 48",Bikes,Road Bikes,1.5050037879389903,180,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+316,"Road-450 Red, 60",Bikes,Road Bikes,-1.1338264040512580,350,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+232,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,-10.4496934403399629,991,Unprofitable,High Frequency,Unprofitable - All Frequencies
+480,Patch Kit/8 Patches,Accessories,Tires and Tubes,37.4270553837638820,607,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+565,"Touring-3000 Blue, 54",Bikes,Touring Bikes,-13.4925455128771591,565,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+306,"HL Mountain Frame - Black, 38",Components,Mountain Frames,8.7334144647422656,231,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+338,"Road-650 Black, 44",Bikes,Road Bikes,1.5050211661277572,314,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+408,HL Road Handlebars,Components,Handlebars,25.9977827050997783,280,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+589,"Mountain-400-W Silver, 42",Bikes,Mountain Bikes,9.0777380432605914,228,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+245,"HL Road Frame - Red, 48",Components,Road Frames,7.5002081145462463,48,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+511,"ML Mountain Frame-W - Silver, 40",Components,Mountain Frames,8.5490719788748593,818,Mid-Profit,High Frequency,Mid Profit - High Frequency
+390,"Road-550-W Yellow, 48",Bikes,Road Bikes,-6.2417514884596056,670,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+448,Minipump,Accessories,Pumps,31.1020903115133500,1130,High-Profit,High Frequency,High Profit - High Frequency
+469,"Full-Finger Gloves, M",Clothing,Gloves,29.3329162533325862,2197,High-Profit,High Frequency,High Profit - High Frequency
+568,"Touring-3000 Yellow, 44",Bikes,Touring Bikes,-12.9891095613979062,715,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+386,"Road-550-W Yellow, 42",Bikes,Road Bikes,-6.0673221377679275,405,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+481,"Racing Socks, M",Clothing,Socks,37.4408268335245514,1158,High-Profit,High Frequency,High Profit - High Frequency
+276,"ML Road Frame - Red, 52",Components,Road Frames,1.3337069207060801,90,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+410,LL Mountain Front Wheel,Components,Wheels,25.9557466720121528,617,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+393,HL Fork,Components,Forks,25.9200165056222276,444,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+241,"HL Road Frame - Red, 44",Components,Road Frames,1.33377890342854462736,27,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+345,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,0.60527747102578041919,551,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+514,Rear Brakes,Components,Brakes,25.9994947262047622,223,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+295,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,8.7333577623060950,224,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+582,"Road-350-W Yellow, 44",Bikes,Road Bikes,-6.0670788465495449,299,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+429,"ML Road Frame-W - Yellow, 40",Components,Road Frames,7.4989609455628873,132,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+318,"Road-450 Red, 48",Bikes,Road Bikes,-1.1338398871406793,156,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+311,"Road-150 Red, 44",Bikes,Road Bikes,-1.1333855001179963,156,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+391,LL Fork,Components,Forks,25.9979759361295401,190,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+484,Bike Wash - Dissolver,Accessories,Cleaners,36.5321406609469211,2173,High-Profit,High Frequency,High Profit - High Frequency
+361,"Mountain-200 Black, 42",Bikes,Mountain Bikes,8.6322207558410197,843,Mid-Profit,High Frequency,Mid Profit - High Frequency
+382,"Road-550-W Yellow, 38",Bikes,Road Bikes,-6.1389642488381855,642,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+563,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,-18.4275984995351150,205,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+464,"Half-Finger Gloves, M",Clothing,Gloves,30.9856839794484796,1059,High-Profit,High Frequency,High Profit - High Frequency
+371,"Road-250 Red, 58",Bikes,Road Bikes,-0.89720518518957386613,343,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+350,"Mountain-100 Black, 44",Bikes,Mountain Bikes,0.70740695156864932637,618,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+396,HL Headset,Components,Headsets,26.0021378941742384,255,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+494,"HL Touring Frame - Yellow, 46",Components,Touring Frames,0.10078412396973641854,82,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+557,ML Crankset,Components,Cranksets,25.9984213322732433,68,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+377,"Road-250 Black, 52",Bikes,Road Bikes,-0.89719732788036978417,506,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+525,"LL Mountain Frame - Silver, 44",Components,Mountain Frames,8.7334362044583755,329,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+290,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,8.7333577623060950,149,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+434,"ML Road Frame-W - Yellow, 44",Components,Road Frames,-1.3449755247781051,597,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+531,"LL Mountain Frame - Black, 42",Components,Mountain Frames,8.7302157596412617,390,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+461,"Men's Bib-Shorts, L",Clothing,Bib-Shorts,31.2457663595183357,633,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+339,"Road-650 Black, 44",Bikes,Road Bikes,-3.6599015767503362,703,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+212,"Sport-100 Helmet, Red",Accessories,Helmets,40.4250928238472104,564,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+497,"HL Touring Frame - Blue, 46",Components,Touring Frames,0.10078174209835008960,102,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+369,"Road-250 Red, 48",Bikes,Road Bikes,-3.6587610442472443,647,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+341,"Road-650 Black, 48",Bikes,Road Bikes,-3.6008908895833665,403,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+253,"LL Road Frame - Black, 58",Components,Road Frames,1.3327360286706238,191,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+213,"Sport-100 Helmet, Red",Accessories,Helmets,29.5508289503792591,1493,High-Profit,High Frequency,High Profit - High Frequency
+559,Chain,Components,Chains,25.8537606122204950,690,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+264,"LL Road Frame - Red, 48",Components,Road Frames,1.3336968416023430,203,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+325,"Road-650 Red, 62",Bikes,Road Bikes,-4.1782857927400574,1236,Unprofitable,High Frequency,Unprofitable - All Frequencies
+404,LL Road Handlebars,Components,Handlebars,25.9851620288834097,102,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+562,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,-16.1231842146014865,442,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+427,"ML Mountain Frame - Black, 44",Components,Mountain Frames,11.2014534793503440,619,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+415,HL Road Front Wheel,Components,Wheels,26.0014188429323419,567,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+577,"Touring-2000 Blue, 46",Bikes,Touring Bikes,-3.6969136226727567,392,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+337,"Road-650 Black, 62",Bikes,Road Bikes,-3.6008979364911097,404,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+376,"Road-250 Black, 48",Bikes,Road Bikes,-6.1433090344767063,508,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+365,"Mountain-300 Black, 40",Bikes,Mountain Bikes,7.5083077692301196,776,Mid-Profit,High Frequency,Mid Profit - High Frequency
+336,"Road-650 Black, 62",Bikes,Road Bikes,1.5050098425867272,175,Mid-Profit,Low Frequency,Mid Profit - Low/Medium Frequency
+271,"LL Road Frame - Red, 60",Components,Road Frames,7.4990665318383893,685,Mid-Profit,Mid Frequency,Mid Profit - Low/Medium Frequency
+575,"Touring-1000 Blue, 54",Bikes,Touring Bikes,-3.6001904878788914,216,Unprofitable,Low Frequency,Unprofitable - All Frequencies
+314,"Road-150 Red, 56",Bikes,Road Bikes,-1.1333930736930054,369,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+380,"Road-250 Black, 58",Bikes,Road Bikes,-6.0666897489292971,273,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+414,ML Road Front Wheel,Components,Wheels,25.9995138372798183,530,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
+292,"HL Mountain Frame - Silver, 48",Components,Mountain Frames,13.6667888115304751,173,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+566,"Touring-3000 Blue, 58",Bikes,Touring Bikes,-13.4661623348368494,368,Unprofitable,Mid Frequency,Unprofitable - All Frequencies
+231,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,-29.3139800733937342,1409,Unprofitable,High Frequency,Unprofitable - All Frequencies
+426,"ML Mountain Frame - Black, 40",Components,Mountain Frames,11.2013762783140591,68,High-Profit,Low Frequency,High Profit - Low/Medium Frequency
+445,"Men's Sports Shorts, S",Clothing,Shorts,31.1488988764265487,567,High-Profit,Mid Frequency,High Profit - Low/Medium Frequency
